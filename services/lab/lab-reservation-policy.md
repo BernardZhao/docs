@@ -1,3 +1,7 @@
+---
+title: Lab Reservation Policy
+---
+
 [[!meta title="Lab reservation policy"]]
 
 _As established by the Board of Directors on November 6, 2017._

@@ -1,3 +1,7 @@
+---
+title: ssh-list
+---
+
 [[!meta title="ssh-list: run command via SSH on many hosts simultaneously"]]
 
 `ssh-list` is a small wrapper around `parallel-ssh` which reads lists of hosts

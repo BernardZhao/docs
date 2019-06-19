@@ -1,3 +1,7 @@
+---
+title: Google Apps
+---
+
 [[!meta title="Making OCF Google Apps accounts"]]
 
 The OCF has its own Google Apps deployment, which we mainly use for GDrive and

@@ -1,3 +1,7 @@
+---
+title: Membership
+---
+
 [[!meta title="Joining the OCF"]]
 
 ## Before you begin

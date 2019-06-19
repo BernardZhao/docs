@@ -1,3 +1,7 @@
+---
+title: sorry
+---
+
 [[!meta title="sorry: disable an OCF account"]]
 
 ## Introduction

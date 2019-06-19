@@ -1,3 +1,7 @@
+---
+title: Ocfweb
+---
+
 [[!meta title="Running ocfweb"]]
 
 If you want to work on [`ocfweb`][0] on your Staff VM, it isn't as

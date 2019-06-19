@@ -1,3 +1,7 @@
+---
+title: Munin
+---
+
 [[!meta title="Munin"]]
 
 We use [Munin](https://munin.ocf.berkeley.edu) to provide real-time monitoring

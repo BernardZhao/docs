@@ -1,3 +1,7 @@
+---
+title: Restarting Services
+---
+
 [[!meta title="Restarting services"]]
 
 ## Taking production services offline

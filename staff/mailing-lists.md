@@ -1,3 +1,7 @@
+---
+title: Staff Mailing Lists
+---
+
 [[!meta title="Staff mailing lists"]]
 
 ## Mailing lists

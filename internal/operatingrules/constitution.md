@@ -1,3 +1,7 @@
+---
+title: Constitution
+---
+
 [[!meta title="Constitution"]]
 
 This document records the **Constitution of the Open Computing Facility**, as

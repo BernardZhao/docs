@@ -1,3 +1,7 @@
+---
+title: checkacct
+---
+
 [[!meta title="checkacct: find accounts by full name"]]
 
 ## Introduction

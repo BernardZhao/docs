@@ -1,3 +1,7 @@
+---
+title: User Quotas
+---
+
 [[!meta title="User disk quotas"]]
 
 We use the standard Unix quota utilities to set disk quotas.

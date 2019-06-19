@@ -1,3 +1,7 @@
+---
+title: paper
+---
+
 [[!meta title="paper: view and modify print quotas"]]
 
 ## Introduction

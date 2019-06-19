@@ -1,3 +1,7 @@
+---
+title: Slurm
+---
+
 [[!meta title="Slurm"]]
 
 ## Slurm

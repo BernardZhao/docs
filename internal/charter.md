@@ -1,3 +1,7 @@
+---
+title: Charter
+---
+
 [[!meta title="Charter"]]
 
 The OCF is an ASUC Chartered Program; the authoritative text of its charter can

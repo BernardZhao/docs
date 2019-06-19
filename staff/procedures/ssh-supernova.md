@@ -1,3 +1,7 @@
+---
+title: SSH Supernova
+---
+
 [[!meta title="SSHing into Supernova"]]
 
 When contributing to the OCF codebase, you will need some way of running and

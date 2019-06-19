@@ -1,3 +1,7 @@
+---
+title: Software Mirrors
+---
+
 [[!meta title="Software Mirrors"]]
 
 The OCF provides public mirrors of free and open-source software projects for

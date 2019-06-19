@@ -1,3 +1,7 @@
+---
+title: Staff Mail
+---
+
 [[!meta title="Mail"]]
 
 **anthrax** is our mail server. It is used for sending and receiving all OCF

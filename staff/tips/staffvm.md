@@ -1,3 +1,7 @@
+---
+title: Staff Virtual Machines
+---
+
 [[!meta title="On your staff VM"]]
 
 ## Essentials

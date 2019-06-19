@@ -1,3 +1,7 @@
+---
+title: Setting up Bridging and LACP
+---
+
 [[!meta title="Setting up bridging and link aggregation"]]
 
 Bridging and LACP will be configured through puppet, but these

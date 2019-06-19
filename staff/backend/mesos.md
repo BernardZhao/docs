@@ -1,3 +1,7 @@
+---
+title: Mesos
+---
+
 [[!meta title="Mesos"]]
 
 At the OCF, we use [Mesos][mesos] and [Marathon][marathon] in order to deploy a

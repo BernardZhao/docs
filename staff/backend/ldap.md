@@ -1,3 +1,7 @@
+---
+title: LDAP
+---
+
 [[!meta title="LDAP"]]
 
 ## Introduction

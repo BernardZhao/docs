@@ -1,3 +1,7 @@
+---
+title: Policies
+---
+
 [[!meta title="Policies"]]
 
 OCF Policies are established by the [[OCF Decision Making Process|doc

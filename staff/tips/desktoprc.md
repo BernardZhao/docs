@@ -1,3 +1,7 @@
+---
+title: .desktoprc
+---
+
 [[!meta title=".desktoprc"]]
 
 The file `~/remote/.desktoprc` is automatically sourced when you log into any

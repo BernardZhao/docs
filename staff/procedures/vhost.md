@@ -1,3 +1,7 @@
+---
+title: Configuring Virtual Hosting
+---
+
 [[!meta title="Configuring virtual hosting"]]
 
 ## Policy checklist

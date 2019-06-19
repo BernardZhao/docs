@@ -1,3 +1,7 @@
+---
+title: Zookeeper
+---
+
 [[!meta title="Zookeeper"]]
 
 Zookeeper is a distributed key-value store. It has strong durability and

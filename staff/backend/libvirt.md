@@ -1,3 +1,7 @@
+---
+title: KVM/Libvirt
+---
+
 [[!meta title="KVM/Libvirt"]]
 
 Most of the OCF's hosts are virtual machines. Our virtual machines are all

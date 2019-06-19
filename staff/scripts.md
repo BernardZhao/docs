@@ -1,3 +1,7 @@
+---
+title: Scripts
+---
+
 [[!meta title="Scripts"]]
 
 Create subpages under this category to document scripts/programs that are

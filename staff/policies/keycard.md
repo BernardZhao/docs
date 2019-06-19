@@ -1,3 +1,7 @@
+---
+title: Keycard
+---
+
 [[!meta title="Keycard policy"]]
 
 _As promulgated by the GMs on August 18, 2017._

@@ -1,3 +1,7 @@
+---
+title: Gmail
+---
+
 [[!meta title="Using Gmail with mail virtual hosting"]]
 
 **Note:** Your berkeley.edu address is really just a branded Gmail account, so

@@ -1,3 +1,7 @@
+---
+title: Private
+---
+
 [[!meta title="Additional documentation"]]
 
 Additional documentation not published publicly can be found at

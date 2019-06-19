@@ -1,3 +1,7 @@
+---
+title: Kubernetes
+---
+
 [[!meta title="Kubernetes"]]
 
 At the OCF we are in the process of moving production services from

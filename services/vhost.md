@@ -1,3 +1,7 @@
+---
+title: Virtual Hosting
+---
+
 [[!meta title="Virtual hosting (group.berkeley.edu)"]]
 
 Virtual hosting allows group accounts to have their website available on a

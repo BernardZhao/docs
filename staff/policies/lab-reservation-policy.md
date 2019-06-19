@@ -1,3 +1,7 @@
+---
+title: Lab Reservation Policy (Staff)
+---
+
 [[!meta title="Lab reservation policy (staff expectations)"]]
 
 _As promulgated by the GMs on November 06, 2017_

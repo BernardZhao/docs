@@ -1,3 +1,7 @@
+---
+title: Former Staff
+---
+
 [[!meta title="Where alumni have gone"]]
 
 ## Where have OCF staffers gone after leaving the OCF?

@@ -1,3 +1,7 @@
+---
+title: Adding users to HPC
+---
+
 [[!meta title="Adding users to the HPC cluster"]]
 
 Access to the OCF's HPC [[cluster | doc services/hpc]] is controlled by means

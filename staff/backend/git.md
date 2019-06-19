@@ -1,3 +1,7 @@
+---
+title: Git
+---
+
 [[!meta title="Git"]]
 
 Git is a distributed revision control system used by the OCF. Other version

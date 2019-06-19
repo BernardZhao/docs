@@ -1,3 +1,7 @@
+---
+title: Django
+---
+
 [[!meta title="Django"]]
 
 **Note: These instructions are primarily intended for individual user accounts.

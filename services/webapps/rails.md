@@ -1,3 +1,7 @@
+---
+title: Rails
+---
+
 [[!meta title="Ruby on Rails"]]
 
 **Note: This document only applies to student groups with virtual hosts who

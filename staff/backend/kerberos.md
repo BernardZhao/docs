@@ -1,3 +1,7 @@
+---
+title: Kerberos
+---
+
 [[!meta title="Kerberos"]]
 
 ## Introduction

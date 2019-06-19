@@ -1,3 +1,7 @@
+---
+title: unsorry
+---
+
 [[!meta title="unsorry: re-enable a sorried account"]]
 
 ## Introduction

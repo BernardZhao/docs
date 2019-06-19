@@ -1,3 +1,7 @@
+---
+title: how
+---
+
 [[!meta title="how: view the source of a script"]]
 
 ## Introduction

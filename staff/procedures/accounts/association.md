@@ -1,3 +1,7 @@
+---
+title: LDAP Association
+---
+
 [[!meta title="LDAP association"]]
 
 New individual accounts have a `calnetUid` attribute in

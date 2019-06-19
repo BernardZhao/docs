@@ -1,3 +1,7 @@
+---
+title: lab-wakeup
+---
+
 [[!meta title="lab-wakeup: wake up suspended desktops"]]
 
 ## Introduction

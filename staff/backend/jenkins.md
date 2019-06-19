@@ -1,3 +1,7 @@
+---
+title: Jenkins
+---
+
 [[!meta title="Jenkins"]]
 
 [Jenkins](https://jenkins.ocf.berkeley.edu/) is the tool we use for continuous

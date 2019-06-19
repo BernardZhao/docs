@@ -1,3 +1,7 @@
+---
+title: Internal Firewalls
+---
+
 [[!meta title="Internal firewalls"]]
 
 While the [[external firewall|doc staff/backend/firewall]] regulates network

@@ -1,3 +1,7 @@
+---
+title: economode
+---
+
 [[!meta title="economode: turn economode on/off on the printers"]]
 
 By default our printers print with the Economode setting on, which saves toner

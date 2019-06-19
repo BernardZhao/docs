@@ -1,3 +1,7 @@
+---
+title: signat
+---
+
 [[!meta title="signat: check signatory status"]]
 
 ## Introduction

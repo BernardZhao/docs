@@ -1,3 +1,7 @@
+---
+title: Printing
+---
+
 [[!meta title="Printing"]]
 
 The OCF offers a certain amount of printing to individual members. You don't

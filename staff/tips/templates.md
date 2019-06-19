@@ -1,3 +1,7 @@
+---
+title: Email Templates
+---
+
 [[!meta title="Email Templates"]]
 
 General email response templates can be found at

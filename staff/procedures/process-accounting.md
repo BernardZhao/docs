@@ -1,3 +1,7 @@
+---
+title: Process Accounting
+---
+
 [[!meta title="Process accounting"]]
 
 Sometimes we want to figure out how resources on a server have been used

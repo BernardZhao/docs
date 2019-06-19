@@ -1,3 +1,7 @@
+---
+title: Rails
+---
+
 [[!meta title="Ruby on Rails"]]
 
 **Note: These instructions are primarily intended for individual user accounts.

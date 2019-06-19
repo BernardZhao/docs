@@ -1,3 +1,7 @@
+---
+title: Printing
+---
+
 [[!meta title="Printing maintenance"]]
 
 ## Removing printers from service

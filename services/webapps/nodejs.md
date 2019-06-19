@@ -1,3 +1,7 @@
+---
+title: NodeJS
+---
+
 [[!meta title="Node.js"]]
 
 **Note: This document only applies to student groups with virtual hosts who

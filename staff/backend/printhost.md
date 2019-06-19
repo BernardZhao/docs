@@ -1,3 +1,7 @@
+---
+title: Printhost
+---
+
 [[!meta title="Printhost"]]
 
 ## Introduction

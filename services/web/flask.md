@@ -1,3 +1,7 @@
+---
+title: Flask
+---
+
 [[!meta title="Flask"]]
 
 **Note: These instructions are primarily intended for individual user accounts.

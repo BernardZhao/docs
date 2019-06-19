@@ -1,3 +1,7 @@
+---
+title: Mail
+---
+
 [[!meta title="Email"]]
 
 Email sent to your username @ocf.berkeley.edu (e.g.

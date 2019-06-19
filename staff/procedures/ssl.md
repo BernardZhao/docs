@@ -1,3 +1,7 @@
+---
+title: SSL Certificates
+---
+
 [[!meta title="SSL certificates"]]
 
 We are able to obtain signed certificates at no charge through the campus

@@ -1,3 +1,7 @@
+---
+title: Granting Staff Privileges
+---
+
 [[!meta title="Granting staff privileges"]]
 
 ## Adding people to groups

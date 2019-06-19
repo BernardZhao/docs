@@ -1,3 +1,7 @@
+---
+title: approve
+---
+
 [[!meta title="approve: record an OCF group account request"]]
 
 This page explains the OCF account approval procedure and the usage of the

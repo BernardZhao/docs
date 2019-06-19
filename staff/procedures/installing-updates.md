@@ -1,3 +1,7 @@
+---
+title: Installing Updates
+---
+
 [[!meta title="Installing updates with apt-dater"]]
 
 Installing updates requires root (`ocfroot` group). Besides that, anybody

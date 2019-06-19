@@ -1,3 +1,7 @@
+---
+title: Puppet
+---
+
 [[!meta title="Puppet"]]
 
 The puppetmaster is [[lightning|doc staff/backend/servers]]. Instructions on

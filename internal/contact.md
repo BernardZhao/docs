@@ -1,3 +1,7 @@
+---
+title: Contact
+---
+
 [[!meta title="Contact us"]]
 
 > ## Before contacting us

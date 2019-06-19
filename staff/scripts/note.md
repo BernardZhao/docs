@@ -1,3 +1,7 @@
+---
+title: note
+---
+
 [[!meta title="note: add notes to a user account"]]
 
 ## Introduction

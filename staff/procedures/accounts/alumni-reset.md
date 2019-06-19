@@ -1,3 +1,7 @@
+---
+title: Alumni Account Reset
+---
+
 [[!meta title="Alumni account reset"]]
 
 Occasionally former OCF members want to re-enable their accounts after

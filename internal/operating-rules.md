@@ -1,3 +1,7 @@
+---
+title: Operating Rules
+---
+
 [[!meta title="Operating Rules"]]
 
 The Operating Rules of the OCF consist of the Constitution and the Bylaws. The

@@ -1,3 +1,7 @@
+---
+title: Load Balancing
+---
+
 [[!meta title="Load balancing"]]
 
 ## Common tasks and questions

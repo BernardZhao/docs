@@ -1,3 +1,7 @@
+---
+title: Web Application Hosting
+---
+
 [[!meta title="Web application hosting"]]
 
 **Note: This document only applies to student groups with virtual hosts who

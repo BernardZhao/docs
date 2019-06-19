@@ -1,3 +1,7 @@
+---
+title: FAQ
+---
+
 [[!meta title="Frequently asked questions"]]
 
 #### Why might I want an OCF account? What do I get? How do I use OCF services?
@@ -49,6 +53,10 @@ by in-person to ask for it.
 
 It should still work. Our current policy is to leave accounts alone after
 graduation. See [[account|doc services/account]].
+
+---
+
+## title: Frequently Asked Questions
 
 #### My account is disabled. Or, I want to disable or delete my account.
 

@@ -1,3 +1,7 @@
+---
+title: MDRAID
+---
+
 [[!meta title="Setting up mdraid on servers"]]
 
 Setting up a new server involves putting in all its new drives, turning off

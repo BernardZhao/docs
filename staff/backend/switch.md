@@ -1,3 +1,7 @@
+---
+title: Switches
+---
+
 [[!meta title="Managed switches"]]
 
 We use an [Arista 7050SX-64][primary-switch] 10GbE switch as a primary switch

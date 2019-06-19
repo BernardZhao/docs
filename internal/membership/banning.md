@@ -1,3 +1,7 @@
+---
+title: Banning
+---
+
 [[!meta title="Banning policy"]]
 
 _As amended by the Board of Directors, December 3, 2018._

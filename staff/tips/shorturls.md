@@ -1,3 +1,7 @@
+---
+title: Shorturls
+---
+
 [[!meta title="Shorturls"]]
 
 We use `ocf.io` as a URL shortener.

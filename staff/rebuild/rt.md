@@ -1,3 +1,7 @@
+---
+title: Request Tracker
+---
+
 [[!meta title="Request Tracker"]]
 
 **Note:** RT is now deployed as a Marathon service running in Docker, so these

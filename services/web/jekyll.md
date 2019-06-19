@@ -1,3 +1,7 @@
+---
+title: Jekyll
+---
+
 [[!meta title="Jekyll"]]
 
 [Jekyll](https://jekyllrb.com) is a popular static website generator, often

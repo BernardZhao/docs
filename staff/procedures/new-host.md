@@ -1,3 +1,7 @@
+---
+title: Host Creation
+---
+
 [[!meta title="Creating new hosts (servers, desktops)"]]
 
 Bringing up new hosts is pretty easy, but has a few easy-to-miss steps. This
