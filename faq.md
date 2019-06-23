@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Frequently Asked Questions
 ---
 
 [[!meta title="Frequently asked questions"]]
