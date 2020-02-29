@@ -1,0 +1,41 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "husky": "^4.2.3",
+    "lint-staged": "^10.0.8",
+    "remark-cli": "^7.0.1",
+    "remark-lint": "^6.0.5",
+    "remark-preset-lint-recommended": "^3.0.3",
+    "remark-validate-links": "^9.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lint": "remark ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernardZhao/docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BernardZhao/docs/issues"
+  },
+  "homepage": "https://github.com/BernardZhao/docs#readme",
+  "remarkConfig": {
+    "plugins": [
+      "remark-preset-lint-recommended",
+      "remark-validate-links"
+    ]
+  },
+  "lint-staged": {
+    "*.md": "remark . -o --"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  }
+}
