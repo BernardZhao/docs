@@ -1,8 +1,6 @@
 ---
-title: how
+title: "how: view the source of a script"
 ---
-
-[[!meta title="how: view the source of a script"]]
 
 ## Introduction
 

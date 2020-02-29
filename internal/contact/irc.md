@@ -1,8 +1,7 @@
 ---
-title: IRC
+title: "Internet Relay Chat (IRC)"
 ---
 
-[[!meta title="Internet Relay Chat (IRC)"]]
 
 OCF staff often use IRC to communicate. If you have questions, feel free to
 drop by &mdash; it's often faster than emailing us, especially for
@@ -29,9 +28,9 @@ You can connect using any IRC client. If you do not already have an IRC client,
 we recommend using [Hexchat][hexchat] because it is free, open source, and
 generally easy to use. Our server settings are listed below:
 
-- **Server:** `irc.ocf.berkeley.edu`
-- **Port:** `6697` (requires SSL/TLS)
-- **Channels:** `#rebuild` (best to reach staff), `#ocf` (best for off-topic)
+* **Server:** `irc.ocf.berkeley.edu`
+* **Port:** `6697` (requires SSL/TLS)
+* **Channels:** `#rebuild` (best to reach staff), `#ocf` (best for off-topic)
 
 ### Option 3: Over SSH
 
@@ -43,6 +42,15 @@ when you close the terminal.
 To do so, just type `pyrc` and hit enter. irssi will launch; press alt +
 left/right to switch which channel you're viewing.
 
+### Option 4: Over XMPP
+
+If you have an XMPP account, you can join IRC channels with room name
+`#channelname` and server name `irc.ocf.berkeley.edu` (alternatively,
+`#channelname@irc.ocf.berkeley.edu` depending on your client).
+
+An [[`ocf.berkeley.edu` XMPP account|doc services/xmpp]] can be used, but an
+account on any federated server will work.
+
 ## Authenticating with NickServ
 
 To make sure that you can keep the same username, even after being disconnected
@@ -50,9 +58,11 @@ and reconnecting again, you can register with NickServ.
 
 ### Registering with NickServ
 
-To register with NickServ, choose a password and enter the command `/msg NickServ register [password] [email]` into your IRC client. NickServ should
+To register with NickServ, choose a password and enter the command `/msg
+NickServ register [password] [email]` into your IRC client. NickServ should
 reply after you run the registration command that you have been registered with
-your email. To see if you are registered properly, try running `/msg NickServ info`. You should see your email address, and where you are logged in from,
+your email. To see if you are registered properly, try running `/msg NickServ
+info`. You should see your email address, and where you are logged in from,
 among other results.
 
 ## ZNC
@@ -76,12 +86,11 @@ requires you to login using your staff-created ZNC account.
 
 Once you've logged in, under `Your Settings` you should set the following
 fields:
-
-- **Nickname**: your nickname
-- **Alt. Nickname**: your alternate nickname, if your primary is taken
-- **Ident**: should be same as nickname, used to uniquely identify you from
+* **Nickname**: your nickname
+* **Alt. Nickname**: your alternate nickname, if your primary is taken
+* **Ident**: should be same as nickname, used to uniquely identify you from
   everyone else using IRC
-- **Networks**: add a network with server `irc.ocf.berkeley.edu +6697`,
+* **Networks**: add a network with server `irc.ocf.berkeley.edu +6697`,
   **space included**.
 
 Click save at the bottom, and your ZNC account should be setup to connect to
@@ -91,14 +100,13 @@ the main IRC server.
 
 The OCF ZNC server settings are:
 
-- **Server:** `irc.ocf.berkeley.edu`
-- **Port:** `4095` (requires SSL/TLS)
+* **Server:** `irc.ocf.berkeley.edu`
+* **Port:** `4095` (requires SSL/TLS)
 
 You should also set your IRC client login settings:
-
-- **Use SSL [...]**: True
-- **Login method**: `Server password (/PASS password)`
-- **Password**: your ZNC `password`, or `user:password`
+* **Use SSL [...]**: True
+* **Login method**: `Server password (/PASS password)`
+* **Password**: your ZNC `password`, or `user:password`
 
 Once you have setup both ZNC and your IRC client, you should be able to
 connect to IRC normally.
@@ -107,7 +115,8 @@ connect to IRC normally.
 
 If you are [[using ZNC|doc staff/tips/staffvm/znc]], load the [NickServ
 module][nickserv] by running `/znc LoadMod nickserv` while connected to your
-ZNC server. Then, in your ZNC web admin interface, log in and go to `Your Settings` under either the global or user modules links. Under the Networks
+ZNC server. Then, in your ZNC web admin interface, log in and go to `Your
+Settings` under either the global or user modules links. Under the Networks
 section, click on the `Edit` link next to the OCF network and scroll down to
 the Modules section. Enable the `nickserv` module and type the password you
 used to register with NickServ into the arguments box. Then save your changes
@@ -119,4 +128,4 @@ authenticate with NickServ if you get disconnected from ZNC.
 [webirc]: https://irc.ocf.berkeley.edu
 [thelounge]: https://thelounge.github.io
 [hexchat]: https://hexchat.github.io
-[nickserv]: http://wiki.znc.in/Nickserv
+[nickserv]: https://wiki.znc.in/Nickserv

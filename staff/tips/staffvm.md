@@ -1,8 +1,6 @@
 ---
-title: Staff Virtual Machines
+title: "On your staff VM"
 ---
-
-[[!meta title="On your staff VM"]]
 
 ## Essentials
 

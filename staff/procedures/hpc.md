@@ -1,8 +1,6 @@
 ---
-title: Adding users to HPC
+title: "Adding users to the HPC cluster"
 ---
-
-[[!meta title="Adding users to the HPC cluster"]]
 
 Access to the OCF's HPC [[cluster | doc services/hpc]] is controlled by means
 of an LDAP group named `ocfhpc`. If a user requests access to the cluster and

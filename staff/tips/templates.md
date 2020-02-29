@@ -1,8 +1,6 @@
 ---
-title: Email Templates
+title: "Email Templates"
 ---
-
-[[!meta title="Email Templates"]]
 
 General email response templates can be found at
 [templates.ocf.berkeley.edu](https://templates.ocf.berkeley.edu)
@@ -17,7 +15,6 @@ text into the input boxes above the main text box. Variables can be located in
 the template by looking for `{<variable name>}` before filling it out.
 
 ## Adding templates
-
 New templates can be added to the website by submitting a pull request to the
 [ocf/templates](https://ocf.io/gh/templates) repo. Template files are found in
 `templates/www/templates`. Variables can be added in a template as

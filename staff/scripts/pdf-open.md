@@ -1,8 +1,6 @@
 ---
-title: pdf-open
+title: "pdf-open: unf*&^ bad PDFs if they won't print right"
 ---
-
-[[!meta title="pdf-open: unf*&^ bad PDFs if they won't print right"]]
 
 ## Introduction
 

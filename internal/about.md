@@ -1,13 +1,14 @@
 ---
-title: About Us
+title: "About us"
 ---
+
 
 ## The mission
 
 The OCF is an all-volunteer, student-run, Chartered Program of the [Associated
 Students of the University of California (ASUC)][asuc] dedicated to free
 computing for all [University of California at Berkeley][berkeley] students,
-faculty, and staff. The mission of the OCF is to provide an environment where
+faculty, and staff.  The mission of the OCF is to provide an environment where
 no member of Berkeley's campus community is denied the computer resources he or
 she seeks, to appeal to all members of the Berkeley campus community with
 unsatisfied computing needs, and to provide a place for those interested in
@@ -24,7 +25,7 @@ these user services, the group also hosts numerous student group and faculty/sta
 websites, and provides support to these and other organizations on campus.
 
 To be able to do this, we are always aiming to secure more resources to fully
-meet the needs of everyone in the campus community. Our primary resources are
+meet the needs of everyone in the campus community.  Our primary resources are
 our GNU/Linux workstations and servers, entirely administered by [[student
 volunteers|doc staff]]. These resources are located within our computing lab on
 the ground floor of MLK Student Union.
@@ -59,11 +60,11 @@ If you need to contact OCF staff members, you may [[send us an email|doc
 contact]]
 
 The Open Computing Facility is a student group acting independently of the
-University of California. We take full responsibility for our organization and
+University of California.  We take full responsibility for our organization and
 this website.
 
-[asuc]: http://asuc.org
-[berkeley]: http://berkeley.edu
+[asuc]: https://asuc.org
+[berkeley]: https://www.berkeley.edu
 [decal]: https://decal.ocf.berkeley.edu
-[csua]: http://csua.berkeley.edu
+[csua]: https://www.csua.berkeley.edu
 [minutes]: https://www.ocf.berkeley.edu/~staff/bod/

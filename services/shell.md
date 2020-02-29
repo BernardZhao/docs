@@ -1,8 +1,6 @@
 ---
-title: Shell
+title: "Remote shell and file transfer (SSH/SFTP)"
 ---
-
-[[!meta title="Remote shell and file transfer (SSH/SFTP)"]]
 
 A shell account refers to a text-mode interface where commands can be run
 interactively. All OCF accounts include shell account access. You can access
@@ -11,18 +9,22 @@ SSH/SFTP.
 
 We support the following commonly used shell account tools (to name a few):
 
-- Subversion, Git, and Mercurial: version control
-- cron and at: execute commands on a periodic or scheduled basis
-- vim and emacs: powerful and extensible text editors
+*   Subversion, Git, and Mercurial: version control
+*   cron and at: execute commands on a periodic or scheduled basis
+*   vim and emacs: powerful and extensible text editors
 
 Most SSH/SFTP clients will prompt you to accept an unknown key when you first
 connect. Our SSH fingerprint can be used to verify that you're connecting to
 the correct server:
 
-    2048 55:0a:e3:4f:4b:2c:15:f8:d4:7d:f9:93:bf:a0:41:21 tsunami.ocf.berkeley.edu (RSA)
-    1024 7e:19:bc:fd:b5:cd:5c:e3:42:a4:a5:74:eb:ce:5d:2e tsunami.ocf.berkeley.edu (DSA)
-    256  a2:4b:d5:17:43:2e:a7:ea:50:d7:ab:1f:63:45:a9:6c tsunami.ocf.berkeley.edu (ECDSA)
-    256  SHA256:h6Rnqg1tyl6VMFrotrR+DSnNW6DF8wQylVllkp03DIw tsunami.ocf.berkeley.edu (ECDSA)
+    1024 SHA256:xz0N4OqJtabwVvdAy6AvmXSG/Ct1cVyoSv7Ag75eYg8  tsunami.ocf.berkeley.edu (DSA)
+    1024 MD5:7e:19:bc:fd:b5:cd:5c:e3:42:a4:a5:74:eb:ce:5d:2e tsunami.ocf.berkeley.edu (DSA)
+    256  SHA256:h6Rnqg1tyl6VMFrotrR+DSnNW6DF8wQylVllkp03DIw  tsunami.ocf.berkeley.edu (ECDSA)
+    256  MD5:a2:4b:d5:17:43:2e:a7:ea:50:d7:ab:1f:63:45:a9:6c tsunami.ocf.berkeley.edu (ECDSA)
+    256  SHA256:queQQ1NML1znAVQTaYirF/R5WKEVSAPnRXjEVQug7Xw  tsunami.ocf.berkeley.edu (ED25519)
+    256  MD5:c6:dc:62:4f:51:8b:b1:c3:72:cf:d4:63:65:92:6f:2d tsunami.ocf.berkeley.edu (ED25519)
+    2048 SHA256:X5sl/Pw8Knjl4evLlFyC9kkq02aVZjaIIsubMN/NZ8s  tsunami.ocf.berkeley.edu (RSA)
+    2048 MD5:55:0a:e3:4f:4b:2c:15:f8:d4:7d:f9:93:bf:a0:41:21 tsunami.ocf.berkeley.edu (RSA)
 
 ## SSH
 
@@ -45,10 +47,10 @@ On Mac OS X or Linux, enter in the terminal:
 
 On Windows, use [PuTTY][putty] (download the `putty.exe` file):
 
-- Host Name: `ssh.ocf.berkeley.edu`
-- Port: 22
+* Host Name: `ssh.ocf.berkeley.edu`
+* Port: 22
 
-[putty]: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+[putty]: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 #### Mosh
 
@@ -66,16 +68,16 @@ you can use the command line utility `sftp`, or a graphical program such as
 
 [sftp]: https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
 [filezilla]: https://filezilla-project.org/
-[winscp]: http://winscp.net/
+[winscp]: https://winscp.net/eng/index.php
 [cyberduck]: https://cyberduck.io/
 
 Otherwise, use the following information in your SFTP client.
 
-- Protocol: SFTP (or SSH)
-- Host Name: `ssh.ocf.berkeley.edu`
-- Port: 22
+* Protocol: SFTP (or SSH)
+* Host Name: `ssh.ocf.berkeley.edu`
+* Port: 22
 
-## Disk quotas {disk_quotas}
+## Disk quotas  {disk_quotas}
 
 <!-- As amended by the Board of Directors on December 1, 2015. -->
 
@@ -83,7 +85,7 @@ Currently, accounts are limited to 5 GB of disk usage under the home and web
 directories. You can check your disk usage by running `quota -v` over SSH or
 [[from your browser|commands]].
 
-## Unattended processes {unattended_processes}
+## Unattended processes  {unattended_processes}
 
 <!-- As established by the Board of Directors on April 17, 2017. SM can -->
 <!-- unilaterally amend. -->

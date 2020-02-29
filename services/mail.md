@@ -1,8 +1,6 @@
 ---
-title: Mail
+title: "Email"
 ---
-
-[[!meta title="Email"]]
 
 Email sent to your username @ocf.berkeley.edu (e.g.
 `username@ocf.berkeley.edu`) will be forwarded to a contact email address of

@@ -1,8 +1,6 @@
 ---
-title: Editing Documentation
+title: "Editing docs"
 ---
-
-[[!meta title="Editing docs"]]
 
 The OCF's documentation (formerly known as "the wiki") is a part of the OCF
 website built with [Markdown][markdown] where we provide technical support for
@@ -45,8 +43,9 @@ testing and building the website so you can preview your edits before making
 the commit. Also see [[our page on Git|doc staff/backend/git]] for further info
 on working with OCF repos.
 
+
 [markdown]: https://daringfireball.net/projects/markdown/syntax
 [ocfweb]: https://github.com/ocf/ocfweb
 [mistune]: https://github.com/lepture/mistune
-[pygments]: http://pygments.org/
+[pygments]: https://pygments.org/
 [jenkins]: https://jenkins.ocf.berkeley.edu

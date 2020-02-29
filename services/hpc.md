@@ -1,8 +1,6 @@
 ---
-title: High Performance Computing
+title: "High performance computing"
 ---
-
-[[!meta title="High performance computing"]]
 
 **NOTE: We are in the process of trialing this service to users so that we can
 make the service as accommodating and secure as possible. This means that items
@@ -31,7 +29,7 @@ expected to be needed.
 Once you submit your proposal and are approved access you will be able to
 connect to our Slurm master node via SSH by running the following command:
 
-```
+```bash
 ssh my_ocf_username@hpcctl.ocf.berkeley.edu
 ```
 
@@ -46,9 +44,9 @@ where you can ask questions and talk to us about anything HPC.
 As of Fall 2018, the OCF HPC cluster is composed of one server, with the
 following specifications:
 
-- 2 Intel Xeon [E5-2640v4][corruption-cpu] CPUs (10c/20t @ 2.4GHz)
-- 4 NVIDIA 1080Ti GPUs
-- 256GB ECC DDR4-2400 RAM
+* 2 Intel Xeon [E5-2640v4][corruption-cpu] CPUs (10c/20t @ 2.4GHz)
+* 4 NVIDIA 1080Ti GPUs
+* 256GB ECC DDR4-2400 RAM
 
 We have plans to expand the cluster with additional nodes of comparable
 specifications as funding becomes available. The current hardware was
@@ -65,7 +63,6 @@ The only way to access our HPC nodes is through Slurm.
 Detailed documentation for how to access Slurm is [[here|doc services/hpc/slurm]].
 
 ## Dependencies
-
 For managing application dependencies, you currently have two options:
 
 ### Virtual Environments
@@ -74,7 +71,7 @@ First you can use a [virtual environment][venv] if you are using Python
 packages. To create a virtual environment navigate to your home directory
 and run the following commands:
 
-```
+```bash
 virtualenv -p python3 venv
 . venv/bin/activate
 ```
@@ -98,7 +95,7 @@ We recommend that you do your development on our HPC infrastructure, but you
 can also develop on your own machine if you would like. If you are running
 Linux on your system, you can install Singularity from the official `apt` repos:
 
-```
+```bash
 sudo apt install singularity-container
 ```
 
@@ -108,12 +105,11 @@ look [here][mac_install], or Windows [here][win_install].
 
 #### Building Your Container
 
-```
+```bash
 singularity build --sandbox ./my_container docker://ubuntu
 ```
-
 This will create a Singularity container named `my_container`. If you are
-working on our infrastructure you will _not_ be able to install non-pip
+working on our infrastructure you will *not* be able to install non-pip
 packages on your container, because you do not have root privileges.
 
 If you would like to create your own container with new packages, you must
@@ -129,19 +125,17 @@ at `/home/containers` on the Slurm master node.
 
 #### Using Your Container
 
-```
+```bash
 singularity shell my_container
 ```
-
 The above command will allow you to shell into your container. By default your
 home directory in the container is linked to your real home directory outside
 of the container environment, which helps you avoid having to transfer files
 in and out of the container.
 
-```
+```bash
 singularity exec --nv my_container ./my_executable.sh
 ```
-
 This command will open your container and run the `my_executable.sh` script in
 the container environment. The `--nv` option allows the container to interface with
 the GPU. This command is useful when using `srun` so you can run your program
@@ -153,25 +147,21 @@ If you were using a sandboxed container for testing, we suggest you convert it
 to a Singularity image file. This is because images are more portable and
 easier to interact with than sandboxed containers. You can make this
 conversion using the following command:
-
-```
+```bash
 sudo singularity build my_image.simg ./my_sandboxed_container
 ```
 
 If you were working on the image on your own computer, you can transfer it over
 to your home directory on our infrastructure using the following command:
-
-```
+```bash
 scp my_image.simg my_ocf_username@hpcctl.ocf.berkeley.edu:~/
 ```
 
 To actually submit a Slurm job that uses your Singularity container and runs
 your script `my_executable.sh`, run the following command:
-
-```
+```bash
 srun --gres=gpu --partition=ocf-hpc singularity exec --nv my_image.simg ./my_executable.sh
 ```
-
 This will submit a Slurm job to run your executable on the `ocf-hpc` Slurm
 partition. The `--gres=gpu` option is what allows multiple users to run jobs
 on a single node so it is important to include. Without it, you will not be
@@ -190,6 +180,6 @@ able to interface with the GPUs.
 [mac_install]: https://singularity.lbl.gov/install-mac
 [win_install]: https://singularity.lbl.gov/install-windows
 [linux_install]: https://singularity.lbl.gov/install-linux
-[brc_slurm]: http://research-it.berkeley.edu/services/high-performance-computing/running-your-jobs
+[brc_slurm]: https://research-it.berkeley.edu/services/high-performance-computing/running-your-jobs
 [corruption-cpu]: https://ark.intel.com/products/92984/Intel-Xeon-Processor-E5-2640-v4-25M-Cache-2-40-GHz-
 [stf]: https://techfund.berkeley.edu

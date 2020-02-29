@@ -1,31 +1,29 @@
 ---
-title: Membership
+title: "Joining the OCF"
 ---
-
-[[!meta title="Joining the OCF"]]
 
 ## Before you begin
 
-- Check the [[membership eligibility|doc membership/eligibility]] page to make
+* Check the [[membership eligibility|doc membership/eligibility]] page to make
   sure you are eligible for an OCF account. For example, all currently-enrolled
   students and active student groups registered with the LEAD Center are
   eligible.
 
-- OCF accounts do not expire, so make sure you have not made an account in the
+* OCF accounts do not expire, so make sure you have not made an account in the
   past. If you have forgotten your account name or password, please do not
   request a new account. Instead, reset your [[password|doc services/account]].
 
-- Choose an OCF account name that is based on your real name (for individual
+* Choose an OCF account name that is based on your real name (for individual
   accounts) or your group's name (for group accounts). It is unlikely you will
   be able to change your account name after your request has been processed.
 
 ## Individual accounts
 
-- Individual accounts are associated with a single person and may not be
+* Individual accounts are associated with a single person and may not be
   shared.
-- Individual accounts are **not** eligible for [[virtual hosting|doc
+* Individual accounts are **not** eligible for [[virtual hosting|doc
   services/vhost]] except for faculty and staff accounts.
-- Individual accounts are eligible for [[printing|doc services/lab/printing]].
+* Individual accounts are eligible for [[printing|doc services/lab/printing]].
 
 **[[Request an account online|register]]**
 
@@ -39,10 +37,10 @@ Then, wait for your account to be created. (below)
 
 ## Group accounts
 
-- Group accounts are associated with a group and may be shared by members of
+* Group accounts are associated with a group and may be shared by members of
   the group.
-- Group accounts are eligible for [[virtual hosting|doc services/vhost]].
-- Group accounts are **not** eligible for [[printing|doc
+* Group accounts are eligible for [[virtual hosting|doc services/vhost]].
+* Group accounts are **not** eligible for [[printing|doc
   services/lab/printing]].
 
 Follow this procedure to get a group account:
@@ -55,7 +53,8 @@ Follow this procedure to get a group account:
 2. **Have the authorized person come to [[staff hours|staff-hours]].** For
    groups registered with the LEAD Center, that means a signatory. Otherwise,
    it's the person named in the documentation letter (and yes, you must bring
-   documentation!). The account will be created during your visit.
+   documentation!).  The account will be created during your visit.
+
 
 ## Account life
 

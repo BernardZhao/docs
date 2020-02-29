@@ -1,16 +1,15 @@
 ---
-title: Flask
+title: "Flask"
 ---
-
-[[!meta title="Flask"]]
 
 **Note: These instructions are primarily intended for individual user accounts.
 If you are using a group account, you may wish to consider
 [[apphosting|doc services/webapps]] instead.**
 
-[Flask](http://flask.pocoo.org/) is a popular microframework for Python web
-development. Using it on the OCF servers requires only just a little extra
-configuration.
+[Flask](https://palletsprojects.com/p/flask/) is a popular microframework for
+Python web development. Using it on the OCF servers requires only just a little
+extra configuration.
+
 
 ## Setting up a Flask project
 
@@ -22,7 +21,7 @@ configuration.
    user@tsunami:~$ cd app
    ```
 
-2. Make a virtualenv. This will allow you to run `pip install` to install any
+2. Make a virtualenv.  This will allow you to run `pip install` to install any
    python packages that you need that the OCF does not already have. The
    benefit of having a virtualenv is that you can decide the dependencies you
    want, without being tied to the OCF defaults:
@@ -34,7 +33,8 @@ configuration.
 
    Feel free to install any other packages you need for your flask app at this
    step too (or later on, that's cool too). If you have an existing flask app
-   with a `requirements.txt` file, then run `venv/bin/pip install -r requirements.txt` to install dependencies from that.
+   with a `requirements.txt` file, then run `venv/bin/pip install -r
+   requirements.txt` to install dependencies from that.
 
    For full details on how to use pip, see [the pip documentation][pip-docs].
 
@@ -68,7 +68,7 @@ configuration.
 
 5. Create `~/public_html/flask/.htaccess` with these contents:
 
-   ```htaccess
+   ```apacheconf
    RewriteEngine On
    RewriteBase /
    RewriteCond %{REQUEST_FILENAME} !-f
@@ -122,7 +122,8 @@ configuration.
 If you see an error page when trying to load your app, you may find the
 webserver's logs useful. You can access them in the following locations:
 
-- error log: `/opt/httpd/error.log` (most useful)
-- suexec log: `/opt/httpd/suexec.log` (only useful in rare cases)
+* error log: `/opt/httpd/error.log` (most useful)
+* suexec log: `/opt/httpd/suexec.log` (only useful in rare cases)
+
 
 [pip-docs]: https://packaging.python.org/tutorials/installing-packages/#installing-from-pypi

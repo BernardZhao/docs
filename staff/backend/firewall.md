@@ -1,8 +1,6 @@
 ---
-title: Firewall
+title: "External firewall"
 ---
-
-[[!meta title="External firewall"]]
 
 We use a Palo Alto Networks (PAN) firewall provided by IST. We have one network
 port in the server room which is activated and behind the firewall; we have
@@ -26,7 +24,7 @@ set up the SOCKS proxy (through your OS or through your browser's settings) to
 use the proxy on `localhost` and port `8000`.
 
 [panorama]: https://panorama.net.berkeley.edu
-[library-vpn]: http://www.lib.berkeley.edu/using-the-libraries/vpn
+[library-vpn]: https://www.lib.berkeley.edu/using-the-libraries/vpn
 
 To sign in to administer the firewall, make sure to use the single sign-on
 (SSO) option, and it will ask for CalNet authentication.

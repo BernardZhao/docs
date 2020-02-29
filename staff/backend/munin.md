@@ -1,8 +1,8 @@
 ---
-title: Munin
+title: "Munin"
 ---
 
-[[!meta title="Munin"]]
+**NOTE:** We are currently in the process of migrating many of our monitoring services to Prometheus. For more information, visit the documentation page for Prometheus [[here|doc staff/backend/prometheus]].
 
 We use [Munin](https://munin.ocf.berkeley.edu) to provide real-time monitoring
 of our hardware. The master is [[dementors|doc staff/backend/servers]] which
@@ -20,7 +20,7 @@ machine, e.g. if disk usage goes above 92%. Some plugins have configurable
 warning and critical levels for each field, which are usually set in the node
 config like so:
 
-```text
+```
 [pluginname]
 env.fieldname_warning min:max
 env.fieldname_critical min:max
@@ -46,7 +46,7 @@ server. Writing a plugin is very easy, should you need to do so. When called
 without arguments, it should print to standard output a list of variable names
 and values:
 
-```text
+```
 field1.value <value>
 field2.value <value>
 ...
@@ -55,7 +55,7 @@ field2.value <value>
 When given the lone argument `config`, it should print display information for
 Munin graphs and variable warning levels:
 
-```text
+```
 graph_title Title
 graph_vlabel yaxis
 graph_scale no
@@ -64,6 +64,6 @@ field1.warning min:max
 ...
 ```
 
-[gen-munin-nodes]: https://github.com/ocf/puppet/blob/master/modules/ocf_stats/files/munin/gen-munin-nodes
-[mail-munin-alert]: https://github.com/ocf/puppet/blob/master/modules/ocf_stats/files/munin/mail-munin-alert
+[gen-munin-nodes]: https://github.com/ocf/puppet/blob/master/modules/ocf_munin/files/gen-munin-nodes
+[mail-munin-alert]: https://github.com/ocf/puppet/blob/master/modules/ocf_munin/templates/mail-munin-alert.erb
 [ocf_munin_plugin]: https://github.com/ocf/puppet/blob/master/modules/ocf/manifests/munin/plugin.pp

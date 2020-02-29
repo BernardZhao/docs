@@ -1,8 +1,6 @@
 ---
-title: Gmail
+title: "Using Gmail with mail virtual hosting"
 ---
-
-[[!meta title="Using Gmail with mail virtual hosting"]]
 
 **Note:** Your berkeley.edu address is really just a branded Gmail account, so
 these steps also work using your Berkeley email. You can use either a personal
@@ -47,12 +45,12 @@ or Berkeley email for these steps.
 
    Use the following settings:
 
-   - **SMTP Server:** `smtp.ocf.berkeley.edu`
-   - **Username:** The _full email address_, including
-     `@mygroup.berkeley.edu` at the end.
-   - **Password:** The password you chose in step 2.
-   - **Port:** 587 (the default)
-   - **Secured connection:** Using TLS (the default)
+     * **SMTP Server:** `smtp.ocf.berkeley.edu`
+     * **Username:** The *full email address*, including
+       `@mygroup.berkeley.edu` at the end.
+     * **Password:** The password you chose in step 2.
+     * **Port:** 587 (the default)
+     * **Secured connection:** Using TLS (the default)
 
    It should look roughly like this:
 
@@ -66,6 +64,7 @@ or Berkeley email for these steps.
    should have arrived at the same Gmail account.
 
    Click the link in that email and you're good to go!
+
 
 From now on, when sending email via Gmail, you'll have a drop-down menu which
 lets you select the "From" address, like this:
@@ -81,5 +80,5 @@ in-person help!
 
 As a last resort, you can also [[email us|doc contact]] for assistance. If you
 do this, please provide as much detail as possible, including screenshots, the
-email you're trying to use, and the steps you took. (But please _do not_ send
+email you're trying to use, and the steps you took. (But please *do not* send
 us your password!)

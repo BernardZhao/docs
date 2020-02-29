@@ -1,8 +1,7 @@
 ---
-title: Puppet
+title: "Puppet"
 ---
 
-[[!meta title="Puppet"]]
 
 The puppetmaster is [[lightning|doc staff/backend/servers]]. Instructions on
 making, testing, and deploying changes to Puppet are located at the [Git

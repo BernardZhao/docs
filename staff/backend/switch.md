@@ -1,8 +1,6 @@
 ---
-title: Switches
+title: "Managed switches"
 ---
-
-[[!meta title="Managed switches"]]
 
 We use an [Arista 7050SX-64][primary-switch] 10GbE switch as a primary switch
 for our servers, and two [Arista 7048T-A][secondary-switch] 1GbE switches for
@@ -36,7 +34,7 @@ the desktops and other devices.
 The primary switch is named `blackhole` and can be accessed over SSH from inside
 the OCF subnet.
 
-```
+```bash
 $ ssh admin@blackhole.ocf.berkeley.edu
 Password:
 blackhole.ocf.berkeley.edu>

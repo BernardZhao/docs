@@ -1,8 +1,6 @@
 ---
-title: Restarting Services
+title: "Restarting services"
 ---
-
-[[!meta title="Restarting services"]]
 
 ## Taking production services offline
 
@@ -56,5 +54,6 @@ firestorm.
 
 Once all of the VMs have been shut down, you can then power off the hypervisors
 via `shutdown -h now`.
+
 
 [status]: https://status.ocf.berkeley.edu

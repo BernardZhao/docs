@@ -1,8 +1,6 @@
 ---
-title: Wordpress
+title: "WordPress"
 ---
-
-[[!meta title="WordPress"]]
 
 WordPress is a popular CMS (content management system) on the Web.
 
@@ -12,6 +10,7 @@ services/vhost]] (mygroup.berkeley.edu names).
 
 Instructions for using WordPress are provided below; you can also [[drop by
 during staff hours|staff-hours]] for in-person assistance.
+
 
 ## Installing WordPress
 
@@ -35,7 +34,7 @@ simple instructions:
    ```
 
    This will download the latest version of WordPress into your web directory
-   using [wp-cli](http://wp-cli.org/).
+   using [wp-cli](https://wp-cli.org/).
 
 5. Visit your web admin dashboard and complete the installation process. Your
    website will be `https://www.ocf.berkeley.edu/~username` and the dashboard
@@ -43,15 +42,16 @@ simple instructions:
 
    You can choose whatever you want for most options, but you'll need to use:
 
-   - **Database Name:** Your user name
-   - **Database User Name:** Your user name
-   - **Database Password:** Your MySQL password (the one you copied from step 3
+   * **Database Name:** Your user name
+   * **Database User Name:** Your user name
+   * **Database Password:** Your MySQL password (the one you copied from step 3
      above)
-   - **Database Host:** `mysql`
-   - **Table Prefix:** Anything you want (the default `wp_` is fine)
+   * **Database Host:** `mysql`
+   * **Table Prefix:** Anything you want (the default `wp_` is fine)
 
 Your WordPress installation is now ready! You can log in using the username and
 password you created and start configuring your site.
+
 
 ## Migrating from WordPress.com to OCF
 
@@ -84,7 +84,8 @@ The basic steps to migration are as follows:
 
 4. Unzip this file and change the file extension of all .xml files to .wxr
 
-5. Log into the dashboard at your OCF WordPress installation and go to `Tools > Import > WordPress`, then upload the .wxr file with all your content.
+5. Log into the dashboard at your OCF WordPress installation and go to `Tools >
+   Import > WordPress`, then upload the .wxr file with all your content.
 
 6. You will have to re-upload most of your media files to your OCF WordPress
    installation. Additionally, you should try and go through most of your posts
@@ -93,6 +94,7 @@ The basic steps to migration are as follows:
 Further details can be found at [the support page by WordPress.com][1].
 
 [1]: https://en.support.wordpress.com/moving-to-a-self-hosted-wordpress-site/
+
 
 ## Frequently Asked Questions
 
@@ -105,6 +107,7 @@ If you're not able to recover your password via email, you can use
 [wp-cli][wp-cli] instead, using the instructions below. (If you're not
 comfortable following these instructions, consider coming in to [[staff
 hours|staff-hours]] instead.
+
 
 1. Go to our [web-based SSH client](https://ssh.ocf.berkeley.edu/) and sign in
    with your username and password.
@@ -130,12 +133,13 @@ hours|staff-hours]] instead.
 
 4. Reset your password using the username given above.
 
-   ```
+   ```shell
    $ wp user update admin --user_pass=new_password
    ```
 
    (Replace `admin` in the command above with your real username, and
    `new_password` with your new password.)
+
 
 ### I forgot my MySQL (database) password
 
@@ -153,6 +157,7 @@ installed (usually `~/public_html` or `~/public_html/wordpress`) and open
 ```shell
 cat ~/path/to/wordpress/wp-config.php | grep DB_PASSWORD
 ```
+
 
 ### My site URL is configured incorrectly
 
@@ -184,4 +189,4 @@ you may additionally need to edit the `.htaccess` file in the root of your
 WordPress installation. Specifically, you should replace `/~yourgroup/` with
 `/` whenever it occurs in that file.
 
-[wp-cli]: http://wp-cli.org/
+[wp-cli]: https://wp-cli.org/

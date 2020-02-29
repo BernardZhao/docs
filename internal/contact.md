@@ -1,18 +1,14 @@
 ---
-title: Contact
+title: "Contact us"
 ---
 
-[[!meta title="Contact us"]]
-
 > ## Before contacting us
->
-> Please conserve our valuable volunteer manpower by \*\*making sure your
+> Please conserve our valuable volunteer manpower by **making sure your
 > question isn't already answered in our [[Frequently asked questions|doc
+> faq]]**.
 >
-> > faq]]\*\*.
->
-> _Interested in [[joining staff|about-staff]]? Feel free to attend our
-> meetings or contact us by email!_
+> *Interested in [[joining staff|about-staff]]? Feel free to attend our
+> meetings or contact us by email!*
 
 There are several ways to contact the student volunteers who keep the OCF
 running (hereafter referred to as OCF staff). If your question cannot be
@@ -21,8 +17,8 @@ hours|staff-hours]]** before contacting us by email.
 
 When contacting OCF staff, please reference
 
-- your OCF account name (if known)
-- the software you are using and any error messages encountered
+ * your OCF account name (if known)
+ * the software you are using and any error messages encountered
 
 ## In person
 
@@ -40,23 +36,24 @@ disabled.
 
 **Do not email us about items lost in the lab.** The front desk is staffed by
 paid employees, not by OCF volunteers. If you email us, the front desk staff
-_will not see it_. If you've lost something, you should instead stop by
+*will not see it*. If you've lost something, you should instead stop by
 in-person to ask for it.
 
-- [help@ocf.berkeley.edu](mailto:help@ocf.berkeley.edu)
+
+* [help@ocf.berkeley.edu](mailto:help@ocf.berkeley.edu)
 
   If you have questions about your OCF account, services we offer, or about
   joining the staff team, this is the best address to use. Mail sent here
   generates a help ticket which can be seen by all OCF staff.
 
-- [devnull@ocf.berkeley.edu](mailto:devnull@ocf.berkeley.edu)
+* [devnull@ocf.berkeley.edu](mailto:devnull@ocf.berkeley.edu)
 
   If you'd like us to promote your event, service, product, or opportunity to
   our large volunteer staff team, we'd love to get in contact with you! Please
   use the [devnull@ocf.berkeley.edu](mailto:devnull@ocf.berkeley.edu) address
   so that your mail reaches all staff members quickly.
 
-- [security@ocf.berkeley.edu](mailto:security@ocf.berkeley.edu)
+* [security@ocf.berkeley.edu](mailto:security@ocf.berkeley.edu)
 
   Concerns about computer security, network infrastructure, and abuse of
   resources (including spam) should be sent here.

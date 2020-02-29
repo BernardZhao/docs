@@ -1,8 +1,7 @@
 ---
-title: Account
+title: "Account"
 ---
 
-[[!meta title="Account"]]
 
 ## Introduction
 
@@ -48,7 +47,7 @@ Use [[SSH|doc services/shell]] to run the command `passwd` and follow the
 prompts as shown below. No text will appear when you are entering in a
 password, just press enter when done after each prompt.
 
-```text
+```
 $ passwd
 myusername@OCF.BERKELEY.EDU's Password: <my current password>
 New password: <my new password>
@@ -56,7 +55,7 @@ Verifying - New password: <my new password>
 Success : Password changed
 ```
 
-#### In person {in-person-reset}
+#### In person    {in-person-reset}
 
 If you are not able to use CalNet or SSH, or if you are a group and forgot your
 current password, you can meet a staff member in person during [[staff
@@ -66,7 +65,7 @@ Please bring sufficient documentation as listed on the [[membership
 eligibility|doc membership/eligibility]] page to demonstrate that you are
 authorized to reset the account password.
 
-#### Manual verification of identity (typically for alumni with old accounts) {manual-reset}
+#### Manual verification of identity (typically for alumni with old accounts)    {manual-reset}
 
 If you have forgotten your individual account password and are unable to use
 CalNet or meet a staff member in person, you may reset your password through
@@ -74,32 +73,31 @@ our manual verification process.
 
 You have two choices:
 
-- **Option 1 (email).** Send scanned copies of the documentation to a staff
-  member over email. For security purposes, please **do not mail your
-  documentation to any address listed on this website**. This gets archived
-  and mailed out to all staff members.
+  * **Option 1 (email).** Send scanned copies of the documentation to a staff
+    member over email. For security purposes, please **do not mail your
+    documentation to any address listed on this website**. This gets archived
+    and mailed out to all staff members.
 
-  Instead, please email [help@ocf.berkeley.edu](mailto:help@ocf.berkeley.edu)
-  and request to start the process (do **not** include any ID in the initial
-  email). We'll provide a separate email for you to use instead to send in
-  your documentation.
+    Instead, please email [help@ocf.berkeley.edu](mailto:help@ocf.berkeley.edu)
+    and request to start the process (do **not** include any ID in the initial
+    email). We'll provide a separate email for you to use instead to send in
+    your documentation.
 
-- **Option 2 (postal mail).** Mail your documentation to our [[mailing
-  address|doc contact#index6h2]]. Expect a delay of at least 2-3 weeks,
-  possibly longer over summer.
+  * **Option 2 (postal mail).** Mail your documentation to our [[mailing
+    address|doc contact#index6h2]]. Expect a delay of at least 2-3 weeks,
+    possibly longer over summer.
 
 For security purposes, please include the following with your request:
 
-- a copy of your Cal ID
+* a copy of your Cal ID
 
-- a second piece of supporting ID (such as driver's license)
+* a second piece of supporting ID (such as driver's license)
 
-- a signed, dated statement to the effect of:
-
+* a signed, dated statement to the effect of:
   > I, John Doe, authorize Open Computing Facility staff to reset my password.
   > Enclosed is a copy of my ID.
 
-- contact information so that we can notify you when your password reset has
+* contact information so that we can notify you when your password reset has
   been processed
 
 If you no longer have your Cal ID, you may substitute it with another
@@ -117,16 +115,16 @@ protected by a separate password.
 
 Currently, we don't actively disable accounts, so you are free to use your
 account until that policy changes. We can't promise all of your OCF account
-privileges into perpetuity, however. We are run by students volunteers using
+privileges into perpetuity, however.  We are run by students volunteers using
 student money.
 
 ## Disabled accounts
 
 Some common reasons accounts are disabled:
 
-- by request
-- security (e.g., account hijacked)
-- misuse (e.g., excessive use of resources, violation of University policies)
+ * by request
+ * security (e.g., account hijacked)
+ * misuse (e.g., excessive use of resources, violation of University policies)
 
 Accounts may also be disabled if OCF staff need to contact you but cannot do
 so.
@@ -137,7 +135,7 @@ hours|staff-hours]].
 If you want to disable your OCF account, please [[contact us|doc contact]] and
 provide your OCF username. If your account appears to still be active, we may
 ask for some evidence that you are the account owner. Currently, disabled
-accounts are stored or archived and can be _re-enabled_ by request at a later
+accounts are stored or archived and can be *re-enabled* by request at a later
 date. Disabled accounts may eventually be scheduled for deletion.
 
 ## Backups and Data Retention

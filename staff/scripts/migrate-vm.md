@@ -1,8 +1,6 @@
 ---
-title: migrate-vm
+title: "migrate-vm: migrate VMs between hosts"
 ---
-
-[[!meta title="migrate-vm: migrate VMs between hosts"]]
 
 ## Usage
 

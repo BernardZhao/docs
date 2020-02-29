@@ -1,8 +1,6 @@
 ---
-title: Rebuild
+title: "Rebuild"
 ---
-
-[[!meta title="Rebuild"]]
 
 The Great OCF Rebuild
 

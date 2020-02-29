@@ -1,8 +1,6 @@
 ---
-title: economode
+title: "economode: turn economode on/off on the printers"
 ---
-
-[[!meta title="economode: turn economode on/off on the printers"]]
 
 By default our printers print with the Economode setting on, which saves toner
 and also means your printouts come out draft quality. If you need to print
@@ -16,7 +14,7 @@ Remember to reset Economode to on using the same script once you're done.
 
 ## Usage
 
-```text
+```
 $ economode on
 Enter printer password:
 Setting economode to on for papercut... OK

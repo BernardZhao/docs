@@ -1,8 +1,6 @@
 ---
-title: Rails
+title: "Ruby on Rails"
 ---
-
-[[!meta title="Ruby on Rails"]]
 
 **Note: These instructions are primarily intended for individual user accounts.
 If you are using a group account, you may wish to consider
@@ -92,7 +90,7 @@ user@tsunami:~/public_html$ chmod +x dispatch.fcgi
 Create a file called `.htaccess` in your web root (or a subdirectory)
 containing the following lines:
 
-```htaccess
+```apacheconf
 RewriteEngine On
 RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
@@ -153,8 +151,8 @@ applicable between `~user` and `~asset`.
 If you see an error page when trying to load your app, you may find the
 webserver's logs useful. You can access them in the following locations:
 
-- error log: `/opt/httpd/error.log` (most useful)
-- suexec log: `/opt/httpd/suexec.log` (only useful in rare cases)
+* error log: `/opt/httpd/error.log` (most useful)
+* suexec log: `/opt/httpd/suexec.log` (only useful in rare cases)
 
 Once your app has started running, changes you make to the Ruby code or
 templates won't take effect for a few hours. To apply changes immediately, you

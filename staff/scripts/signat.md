@@ -1,8 +1,6 @@
 ---
-title: signat
+title: "signat: check signatory status"
 ---
-
-[[!meta title="signat: check signatory status"]]
 
 ## Introduction
 
@@ -20,14 +18,14 @@ up UIDs and OIDs in OCF [[LDAP|doc staff/backend/ldap]] and names in the
 university's [LDAP directory service][berkeleyldap].
 
 [ocflib]: github.com/ocf/ocflib
-[callinkapi]: https://orapps.berkeley.edu/StudentGroupServiceV2/service.asmx
+[callinkapi]: https://saappiis4.sait-west.berkeley.edu/StudentGroupServiceV2/service.asmx
 [berkeleyldap]: https://wikihub.berkeley.edu/display/calnet/LDAP+Directory+Service
 
 ## Usage
 
 There are several different types of queries available through `signat`.
 
-```text
+```
 $ signat -h
 usage: signat [-h] {uid,oid,user,name,group} ...
 
@@ -50,7 +48,7 @@ subcommands:
 doesn't already have an OCF account. These perform a keyword search for people
 or groups by name.
 
-```text
+```
 $ signat name N Impicciche
 Searching for people... Found 1 entry.
 Searching for signatories...
@@ -88,7 +86,7 @@ TENZING DOLMA       1027935
 `user` looks up an OCF account and prints the signatories for a group account
 or the signatory status of an individual account.
 
-```text
+```
 $ signat user nickimp
 NICHOLAS DANIEL IMPICCICHE (1032668)
 ====================================
@@ -111,7 +109,7 @@ AMRIT MAHADEVAN AYALUR  1027142
 The other two queries, `uid` and `oid`, don't offer much convenience, but
 complete the spectrum of useful queries.
 
-```text
+```
 $ signat uid 1032668
 NICHOLAS DANIEL IMPICCICHE (1032668)
 ====================================

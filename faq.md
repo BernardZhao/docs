@@ -1,8 +1,7 @@
 ---
-title: Frequently Asked Questions
+title: "Frequently asked questions"
 ---
 
-[[!meta title="Frequently asked questions"]]
 
 #### Why might I want an OCF account? What do I get? How do I use OCF services?
 
@@ -46,17 +45,13 @@ password|change_password]] to see if your account has been created.
 
 **Please do not email us about items lost in the lab.** The front desk is
 staffed by paid employees, not by OCF volunteers. If you email us, the front
-desk staff _will not see it_. If you've lost something, you should instead stop
+desk staff *will not see it*. If you've lost something, you should instead stop
 by in-person to ask for it.
 
 #### I have an account. Does it expire? Will it still work?
 
 It should still work. Our current policy is to leave accounts alone after
 graduation. See [[account|doc services/account]].
-
----
-
-## title: Frequently Asked Questions
 
 #### My account is disabled. Or, I want to disable or delete my account.
 

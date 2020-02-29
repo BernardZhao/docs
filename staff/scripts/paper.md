@@ -1,8 +1,6 @@
 ---
-title: paper
+title: "paper: view and modify print quotas"
 ---
-
-[[!meta title="paper: view and modify print quotas"]]
 
 ## Introduction
 
@@ -33,6 +31,7 @@ For yourself:
 For other users:
 
     $ paper view <user>
+
 
 ### Issue refunds (change user balances)
 
