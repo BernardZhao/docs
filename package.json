@@ -36,8 +36,7 @@
   "lint-staged": {
     "*.md": [
       "prettier --write",
-      "remark . -o --",
-      "git add"
+      "remark . -o --"
     ]
   },
   "husky": {
