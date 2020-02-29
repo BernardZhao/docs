@@ -12,7 +12,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "lint": "remark ."
+    "lint": "remark .",
+    "format": "prettier --write '**/*.md'"
   },
   "repository": {
     "type": "git",
@@ -31,7 +32,11 @@
     ]
   },
   "lint-staged": {
-    "**/*.md": "remark . -o --"
+    "*.md": [
+      "prettier --write",
+      "remark . -o --",
+      "git add"
+    ]
   },
   "husky": {
     "hooks": {
