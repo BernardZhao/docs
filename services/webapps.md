@@ -17,14 +17,14 @@ provides more flexibility.
 
 ## App hosting eligibility
 
-App hosting is *only available for student groups with [[virtually-hosting domain names|doc services/vhost]]* (either group.berkeley.edu, or your own
+App hosting is *only available for student groups with [virtually-hosting domain names](/docs/services/vhost)* (either group.berkeley.edu, or your own
 separately-purchased domain name). If you don't already have a virtual host and
 want to use app hosting, see below for instructions; please don't fill out a
 virtual host request form.
 
 ## Requesting app hosting
 
-To request app hosting, you need to first [[create an OCF group account|doc membership]]. Once you have an account, email `hostmaster@ocf.berkeley.edu`
+To request app hosting, you need to first [create an OCF group account](/docs/membership). Once you have an account, email `hostmaster@ocf.berkeley.edu`
 with at least the following information:
 
 * Group's account name
@@ -85,7 +85,7 @@ is:
 1. Create a directory for your app `~/myapp`.
 
 2. Place a startup script at `~/myapp/run`. Your script should end by `exec`ing
-   the server process. If you followed one of the guides for [[Node.js|doc services/webapps/nodejs]], [Rails](/docs/services/webapps/rails), or
+   the server process. If you followed one of the guides for [Node.js](/docs/services/webapps/nodejs), [Rails](/docs/services/webapps/rails), or
    [Django](/docs/services/webapps/python), you've already created this file, so
    can move on to the next step.
 

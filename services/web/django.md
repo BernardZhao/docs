@@ -8,7 +8,7 @@ If you are using a group account, you may wish to consider
 
 Django is a popular web framework for Python applications. At the OCF, you can
 host it using our regular web hosting, though for groups with virtual hosting,
-we strongly recommend instead using our [[application hosting service|doc services/webapps]] instead, as it provides a first-class solution for webapps.
+we strongly recommend instead using our [application hosting service](/docs/services/webapps) instead, as it provides a first-class solution for webapps.
 
 ## Running a Django app
 

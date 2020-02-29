@@ -43,7 +43,7 @@ providers and clients offer similar options.
 
 #### How can I use Gmail to send and receive email?
 
-[[We have an entire page about that — click here!|doc services/vhost/mail/gmail]]
+[We have an entire page about that — click here!](/docs/services/vhost/mail/gmail)
 
 
 #### How can I use an email client besides Gmail to send and receive email?

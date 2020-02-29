@@ -4,7 +4,7 @@ title: "Contact us"
 
 > ## Before contacting us
 > Please conserve our valuable volunteer manpower by **making sure your
-> question isn't already answered in our [[Frequently asked questions|doc faq]]**.
+> question isn't already answered in our [Frequently asked questions](/docs/faq)**.
 >
 > *Interested in [[joining staff|about-staff]]? Feel free to attend our
 > meetings or contact us by email!*

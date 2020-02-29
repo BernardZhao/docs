@@ -5,7 +5,7 @@ title: "WordPress"
 WordPress is a popular CMS (content management system) on the Web.
 
 OCF's [web hosting](/docs/services/web) supports local WordPress installations,
-and groups using WordPress are eligible for [[virtual hosting|doc services/vhost]] (mygroup.berkeley.edu names).
+and groups using WordPress are eligible for [virtual hosting](/docs/services/vhost) (mygroup.berkeley.edu names).
 
 Instructions for using WordPress are provided below; you can also [[drop by during staff hours|staff-hours]] for in-person assistance.
 
@@ -54,7 +54,7 @@ password you created and start configuring your site.
 ## Migrating from WordPress.com to OCF
 
 If you already have a site hosted at WordPress.com and you'd like to move it to
-OCF web hosting, for example, to become eligible for [[virtual hosting|doc services/vhost]], you can move most of your website's functionality and content
+OCF web hosting, for example, to become eligible for [virtual hosting](/docs/services/vhost), you can move most of your website's functionality and content
 to the OCF's servers. Generally, the process is simple and sites migrated from
 WordPress.com hosting to the OCF function quite well, apart from possible minor
 differences in the appearance of themes. However, if you're looking to create

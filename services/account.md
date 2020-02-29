@@ -9,9 +9,9 @@ Your OCF account is both proof of your [membership](/docs/membership) and the
 means by which you authenticate to the variety of [services](/docs/services)
 operated by OCF [staff](/docs/staff). Your OCF account is independent from
 CalNet. (Technical info: public account information and salted password hashes
-are stored in [LDAP](/docs/staff/backend/ldap) and [[Kerberos|doc staff/backend/kerberos]] databases, respectively.)
+are stored in [LDAP](/docs/staff/backend/ldap) and [Kerberos](/docs/staff/backend/kerberos) databases, respectively.)
 
-Accounts are not normally deactivated after your membership [[eligibility|doc membership/eligibility]] expires (e.g., graduation). In fact, we have active
+Accounts are not normally deactivated after your membership [eligibility](/docs/membership/eligibility) expires (e.g., graduation). In fact, we have active
 accounts dating back to at least 1995.
 
 ## Passwords
@@ -58,7 +58,7 @@ Success : Password changed
 If you are not able to use CalNet or SSH, or if you are a group and forgot your
 current password, you can meet a staff member in person during [[staff hours|staff-hours]].
 
-Please bring sufficient documentation as listed on the [[membership eligibility|doc membership/eligibility]] page to demonstrate that you are
+Please bring sufficient documentation as listed on the [membership eligibility](/docs/membership/eligibility) page to demonstrate that you are
 authorized to reset the account password.
 
 #### Manual verification of identity (typically for alumni with old accounts)    {manual-reset}
@@ -79,7 +79,7 @@ You have two choices:
     email). We'll provide a separate email for you to use instead to send in
     your documentation.
 
-  * **Option 2 (postal mail).** Mail your documentation to our [[mailing address|doc contact#index6h2]]. Expect a delay of at least 2-3 weeks,
+  * **Option 2 (postal mail).** Mail your documentation to our [mailing address](/docs/contact#index6h2). Expect a delay of at least 2-3 weeks,
     possibly longer over summer.
 
 For security purposes, please include the following with your request:

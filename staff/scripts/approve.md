@@ -76,5 +76,5 @@ group's public information on CalLink. If the group is not a student group,
 
 ### Post approval
 
-Explain to the requesters that they will need to apply for [[virtual hosting|doc services/vhost]] after they have set up their site if they wish to
+Explain to the requesters that they will need to apply for [virtual hosting](/docs/services/vhost) after they have set up their site if they wish to
 do so. Point them to relevant wiki articles.

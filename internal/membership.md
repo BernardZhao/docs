@@ -21,7 +21,7 @@ title: "Joining the OCF"
 
 * Individual accounts are associated with a single person and may not be
   shared.
-* Individual accounts are **not** eligible for [[virtual hosting|doc services/vhost]] except for faculty and staff accounts.
+* Individual accounts are **not** eligible for [virtual hosting](/docs/services/vhost) except for faculty and staff accounts.
 * Individual accounts are eligible for [printing](/docs/services/lab/printing).
 
 **[[Request an account online|register]]**
@@ -39,11 +39,11 @@ Then, wait for your account to be created. (below)
 * Group accounts are associated with a group and may be shared by members of
   the group.
 * Group accounts are eligible for [virtual hosting](/docs/services/vhost).
-* Group accounts are **not** eligible for [[printing|doc services/lab/printing]].
+* Group accounts are **not** eligible for [printing](/docs/services/lab/printing).
 
 Follow this procedure to get a group account:
 
-1. **Prepare appropriate documents and identification.** See the [[membership eligibility|doc membership/eligibility]] page for information on the
+1. **Prepare appropriate documents and identification.** See the [membership eligibility](/docs/membership/eligibility) page for information on the
    documents and identification you will be asked to present for verification
    at the time you submit your account form.
 

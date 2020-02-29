@@ -91,7 +91,7 @@ Searching for all accounts created after a certain time:
 ### `ldapvi`
 
 `ldapvi` is a "text editor" for LDAP which can generate LDIF change records to
-pass to `ldapadd` (or modify directly if you have the proper [[permissions|doc staff/powers]]). The easiest way to edit a single record with `ldapvi` is to
+pass to `ldapadd` (or modify directly if you have the proper [permissions](/docs/staff/powers)). The easiest way to edit a single record with `ldapvi` is to
 just run `kinit [username]/admin ldapvi [record]`, which will authenticate with
 Kerberos and then run `ldapvi` all in one step.
 

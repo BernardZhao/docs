@@ -26,7 +26,7 @@ websites, and provides support to these and other organizations on campus.
 
 To be able to do this, we are always aiming to secure more resources to fully
 meet the needs of everyone in the campus community.  Our primary resources are
-our GNU/Linux workstations and servers, entirely administered by [[student volunteers|doc staff]]. These resources are located within our computing lab on
+our GNU/Linux workstations and servers, entirely administered by [student volunteers](/docs/staff). These resources are located within our computing lab on
 the ground floor of MLK Student Union.
 
 To help people explore the field of computing and educate them about the
@@ -55,7 +55,7 @@ Board of Directors, and the general public is welcome to attend BoD Meetings.
 The OCF is located on the ground floor of MLK Student Union. For hours and a
 map, see [here](/docs/services/lab).
 
-If you need to contact OCF staff members, you may [[send us an email|doc contact]]
+If you need to contact OCF staff members, you may [send us an email](/docs/contact)
 
 The Open Computing Facility is a student group acting independently of the
 University of California.  We take full responsibility for our organization and

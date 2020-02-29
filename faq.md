@@ -12,7 +12,7 @@ More specifically, we have a [list of services](/docs/services).
 #### Who are you?
 
 The largest(\*) student organization on campus (\*by membership count). OCF is
-completely administered and operated by student volunteers ("staff"). [[About the OCF|doc about]].
+completely administered and operated by student volunteers ("staff"). [About the OCF](/docs/about).
 
 Interested in [[joining staff|about-staff]]? Feel free to attend our meetings
 or [contact us](/docs/contact) by email.
@@ -62,7 +62,7 @@ See [account](/docs/services/account).
 #### [Web hosting](/docs/services/web): How do I get group.berkeley.edu ([virtual hosting](/docs/services/vhost))?
 
 First, you need to have a group [account](/docs/membership) and a working
-[website](/docs/services/web). Then, request [[virtual hosting|doc services/vhost]].
+[website](/docs/services/web). Then, request [virtual hosting](/docs/services/vhost).
 
 #### [Email hosting](/docs/services/mail): How do I get @group.berkeley.edu ([virtual hosting](/docs/services/vhost))?
 

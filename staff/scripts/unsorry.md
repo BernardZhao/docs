@@ -7,7 +7,7 @@ title: "unsorry: re-enable a sorried account"
 For various reasons, we've had to disable accounts. Some for weak passwords,
 some for security vulnerabilities, or myriad other reasons. If an account
 is [sorried](/docs/staff/scripts/sorry), once you've made sure the original problem
-has been resolved (you can check `User_Info` via [[check|doc staff/scripts/check]])
+has been resolved (you can check `User_Info` via [check](/docs/staff/scripts/check))
 you can `unsorry` their account and let them log in again.
 
 `unsorry` will remove the user from the sorry group, re-enable a login shell,

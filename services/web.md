@@ -10,18 +10,18 @@ All accounts include hosting with a web address at:
 
 where `user` is the account name.
 
-Groups, faculty, and staff may also request a [[virtual host|doc services/vhost]] for another domain (e.g., group.berkeley.edu).
+Groups, faculty, and staff may also request a [virtual host](/docs/services/vhost) for another domain (e.g., group.berkeley.edu).
 
 ## Uploading Files
 
-Upload files to your web space the same way you [[upload files to your OCF account|doc services/shell]] (typically SFTP if used remotely). The only
+Upload files to your web space the same way you [upload files to your OCF account](/docs/services/shell) (typically SFTP if used remotely). The only
 difference is that files for your web space are placed in your `public_html`
 directory.
 
 ## Additional details
 
 The web server runs Apache 2.4 with FastCGI (mod_fcgid) and suEXEC.
-Access and error logs are accessible in `/opt/httpd` using [[SSH|doc services/shell]].
+Access and error logs are accessible in `/opt/httpd` using [SSH](/docs/services/shell).
 
 The web server itself runs as a dedicated user. If your .htaccess file is not
 world-readable (e.g., `chmod 644`), the web server will return the error "401

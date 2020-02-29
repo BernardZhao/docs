@@ -56,7 +56,7 @@ for [unsorry](/docs/staff/scripts/unsorry) to re-enable the account.
 Before re-enabling access to an alumni's account, one should verify their identity.
 If they do not have a CalNet UID or are otherwise lacking a reasonable method of
 verifying their identity, it may be necessary to request manual verification of
-identity. Pursuant to the [[instructions for alumni|doc services/account]], if
+identity. Pursuant to the [instructions for alumni](/docs/services/account), if
 you receive a reactivation request from an alum and need to manually verify their
 identity, direct them to send you the required documentation at a private address
 and destroy the documentation as soon as possible.

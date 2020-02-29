@@ -38,7 +38,7 @@ want to be public!
 
 #### I can't log in!
 
-When logging in, don't use your `@berkeley.edu` email. Instead, use [[your OCF email address|doc services/mail]], which is `<OCF username>@ocf.berkeley.edu`.
+When logging in, don't use your `@berkeley.edu` email. Instead, use [your OCF email address](/docs/services/mail), which is `<OCF username>@ocf.berkeley.edu`.
 If you're still having trouble, you can always reset your password.
 
 ### List of Major OCF Channels
@@ -88,7 +88,7 @@ command:
 python pip install websocket-client
 ```
 
-We describe setting up a virtual environment [[here|doc services/webapps/python]].  As a general recommendation, you'll probably want
+We describe setting up a virtual environment [here](/docs/services/webapps/python).  As a general recommendation, you'll probably want
 to leave `wee-slack` running in a detached [tmux session][tmux].
 
 [wee-slack]: https://github.com/wee-slack/wee-slack
