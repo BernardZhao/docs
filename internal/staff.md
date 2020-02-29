@@ -3,9 +3,9 @@ title: "Staff documentation"
 ---
 [[!meta template="docs/staff_index.html"]]
 
-Find out what we're all about, and [[come join us|about-staff]]!
+Find out what we're all about, and [come join us](/about)!
 
-Feel free to attend our meetings, visit us during [[staff hours|staff-hours]],
+Feel free to attend our meetings, visit us during [staff hours](/staff-hours),
 or [contact us](/docs/contact) by email.
 
 ### Documentation

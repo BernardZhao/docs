@@ -75,7 +75,7 @@ If you use the Gmail app on your iPhone or Android device, you'll be able to
 select the From address there as well.
 
 **Having trouble with the above steps?** If you're stuck and can't figure out
-what's wrong, feel free to [[drop by our staff hours|staff-hours]] for
+what's wrong, feel free to [drop by our staff hours](/staff-hours) for
 in-person help!
 
 As a last resort, you can also [email us](/docs/contact) for assistance. If you

@@ -100,11 +100,11 @@ host. For this exercise, you won’t need to make modifications to ocflib.
    IPython3 shell (the `ipython3` command).
 2. To make sure things are working:
    1. Run `import ocflib.lab.staff_hours` to import utilities relating to
-      [[staff hours|staff-hours]].
+      [staff hours](/staff-hours).
    2. Run `staffhours = ocflib.lab.staff_hours.get_staff_hours()` to get the
       list of staff hours.
    3. Take a look at the list `staffhours` and check that it matches the info
-      on [[the staff hours page|staff-hours]]. For instance, you should be able
+      on [the staff hours page](/staff-hours). For instance, you should be able
       to run `staffhours[0]` to see the info corresponding to the first staff
       hour entry on the page.
 3. Your turn! Use ocflib functions to get the following information in your

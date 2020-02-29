@@ -7,7 +7,7 @@ WordPress is a popular CMS (content management system) on the Web.
 OCF's [web hosting](/docs/services/web) supports local WordPress installations,
 and groups using WordPress are eligible for [virtual hosting](/docs/services/vhost) (mygroup.berkeley.edu names).
 
-Instructions for using WordPress are provided below; you can also [[drop by during staff hours|staff-hours]] for in-person assistance.
+Instructions for using WordPress are provided below; you can also [drop by during staff hours](/staff-hours) for in-person assistance.
 
 
 ## Installing WordPress
@@ -102,7 +102,7 @@ link from the login page.
 
 If you're not able to recover your password via email, you can use
 [wp-cli][wp-cli] instead, using the instructions below. (If you're not
-comfortable following these instructions, consider coming in to [[staff hours|staff-hours]] instead.
+comfortable following these instructions, consider coming in to [staff hours](/staff-hours) instead.
 
 
 1. Go to our [web-based SSH client](https://ssh.ocf.berkeley.edu/) and sign in

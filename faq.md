@@ -2,7 +2,6 @@
 title: "Frequently asked questions"
 ---
 
-
 #### Why might I want an OCF account? What do I get? How do I use OCF services?
 
 Access to computing by the students for the students!
@@ -14,7 +13,7 @@ More specifically, we have a [list of services](/docs/services).
 The largest(\*) student organization on campus (\*by membership count). OCF is
 completely administered and operated by student volunteers ("staff"). [About the OCF](/docs/about).
 
-Interested in [[joining staff|about-staff]]? Feel free to attend our meetings
+Interested in [joining staff](/about)? Feel free to attend our meetings
 or [contact us](/docs/contact) by email.
 
 #### Where is the lab? What are the hours?
@@ -27,7 +26,7 @@ See [Join the OCF](/docs/membership).
 
 #### How do I join [OCF staff](/docs/staff)?
 
-Check out [[our staff recruitment website|about-staff]]!
+Check out [our staff recruitment website](/about)!
 
 #### It's been a week since I requested an account, what happened!
 

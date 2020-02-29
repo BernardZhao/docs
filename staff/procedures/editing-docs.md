@@ -15,7 +15,7 @@ by [Pygments][pygments].
 We use a wiki-like syntax for making links within documentation and the
 website, e.g. from [Virtual Hosting](/docs/services/vhost#h4_hosting-badge):
 
-    All virtual hosts on the OCF must include an [OCF banner](/docs/services/vhost/badges) on the front page that links to the [[OCF home page|home]].
+    All virtual hosts on the OCF must include an [OCF banner](/docs/services/vhost/badges) on the front page that links to the [OCF home page](/).
 
 ## Editing docs
 

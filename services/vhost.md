@@ -151,7 +151,7 @@ group or University department or resource.
 
 ### Hosting badge
 
-All virtual hosts on the OCF must include an [OCF banner](/docs/services/vhost/badges) on the front page that links to the [[OCF home page|home]]. The banner must be noticeable without undue effort.  The hosting
+All virtual hosts on the OCF must include an [OCF banner](/docs/services/vhost/badges) on the front page that links to the [OCF home page](/). The banner must be noticeable without undue effort.  The hosting
 badge not only attributes the OCF but also distinguishes it from sites hosted
 by University departments.
 

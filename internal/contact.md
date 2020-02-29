@@ -6,12 +6,12 @@ title: "Contact us"
 > Please conserve our valuable volunteer manpower by **making sure your
 > question isn't already answered in our [Frequently asked questions](/docs/faq)**.
 >
-> *Interested in [[joining staff|about-staff]]? Feel free to attend our
+> *Interested in [joining staff](/about)? Feel free to attend our
 > meetings or contact us by email!*
 
 There are several ways to contact the student volunteers who keep the OCF
 running (hereafter referred to as OCF staff). If your question cannot be
-answered by the **[FAQ](/docs/faq)**, we ask that you try coming to **[[staff hours|staff-hours]]** before contacting us by email.
+answered by the **[FAQ](/docs/faq)**, we ask that you try coming to **[staff hours](/staff-hours)** before contacting us by email.
 
 When contacting OCF staff, please reference
 
@@ -25,7 +25,7 @@ Lower Sproul), Room 171. You will need to show your student ID to the
 front desk staff when you enter the lab.
 
 OCF staff members are usually **not present** during lab open hours. To talk
-with an OCF volunteer staffer, check the [[posted staff hours|staff-hours]].
+with an OCF volunteer staffer, check the [posted staff hours](/staff-hours).
 
 ## Email
 

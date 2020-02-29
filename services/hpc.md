@@ -35,7 +35,7 @@ ssh my_ocf_username@hpcctl.ocf.berkeley.edu
 
 If you have trouble connecting please [contact us](/docs/contact) at
 [help@ocf.berkeley.edu](mailto:help@ocf.berkeley.edu), or come to
-[[staff hours|staff-hours]] when the lab is open and chat with us in person.
+[staff hours](/staff-hours) when the lab is open and chat with us in person.
 We also have a #hpc_users channel on [slack][fco] and [irc](/docs/contact/irc)
 where you can ask questions and talk to us about anything HPC.
 
