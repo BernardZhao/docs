@@ -58,8 +58,7 @@ The format is simply:
 
     groupname domainname
 
-This immediately takes effect, allowing the group to [[edit their email
-config|vhost_mail]] (and the mail server will start accepting incoming/outgoing
+This immediately takes effect, allowing the group to [[edit their email config|vhost_mail]] (and the mail server will start accepting incoming/outgoing
 mail), but you still need to update the DNS so that they can actually receive
 mail.
 

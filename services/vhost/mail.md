@@ -20,8 +20,7 @@ If you'd like to get started using mail virtual hosting, send us an email at
 know you'd like to enable email virtual hosting. Be sure to include both the
 domain name, and your OCF account name.
 
-Once your domain is configured for mail, head over to our [[mail
-virtual hosting page|vhost_mail]] to add and remove addresses.
+Once your domain is configured for mail, head over to our [[mail virtual hosting page|vhost_mail]] to add and remove addresses.
 
 
 ## How sending and receiving mail works
@@ -44,8 +43,7 @@ providers and clients offer similar options.
 
 #### How can I use Gmail to send and receive email?
 
-[[We have an entire page about that — click here!|doc
-services/vhost/mail/gmail]]
+[[We have an entire page about that — click here!|doc services/vhost/mail/gmail]]
 
 
 #### How can I use an email client besides Gmail to send and receive email?

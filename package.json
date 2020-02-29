@@ -31,7 +31,7 @@
     ]
   },
   "lint-staged": {
-    "*.md": "remark . -o --"
+    "**/*.md": "remark . -o --"
   },
   "husky": {
     "hooks": {

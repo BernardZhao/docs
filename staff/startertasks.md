@@ -38,8 +38,7 @@ All of [our servers](/docs/staff/backend/servers) run Linux, and we interact wit
 them over the command line. There are a lot of online resources about using the
 Linux command line, so if you're confused about something, try Googling it!
 
-If you haven't used the command line before, you can go to our [[command
-reference|doc services/shell/commands]] page and try running some commands. You
+If you haven't used the command line before, you can go to our [[command reference|doc services/shell/commands]] page and try running some commands. You
 can also connect to [our ssh server](/docs/services/shell)
 (`ssh.ocf.berkeley.edu`) using your own SSH client.
 
@@ -79,8 +78,7 @@ check.
 2. Use the `signat` command to list the signatories for the Open Computing
    Facility or another student organization of your choice. Hint: if you are not
    sure how to use the `signat` command, try running `signat --help`. This trick
-   works with most commands. OCF scripts also have [[documentation on this
-   website|doc staff/scripts/signat]].
+   works with most commands. OCF scripts also have [[documentation on this website|doc staff/scripts/signat]].
 3. Find the source code for this script on GitHub. Hint: if you’re not sure
    which repository something is in, you can use [OCF Sourcegraph][sourcegraph]
    to search across all repositories!
@@ -128,12 +126,10 @@ request][github-pull-request] on GitHub. Pull requests allow staffers to propose
 changes in discrete chunks and get feedback before the code goes live.
 
 You're going to make a pull request to [ocfweb][ocfweb]. Specifically, you'll
-add your name to [[the list of everyone who's completed this task|doc
-staff/startertasks/completed]].
+add your name to [[the list of everyone who's completed this task|doc staff/startertasks/completed]].
 
 ### Set up
-1. Log into [GitHub](https://github.com). If your [[OCF email|doc
-   services/mail]] (`<OCF username>@ocf.berkeley.edu`) is not connected to your
+1. Log into [GitHub](https://github.com). If your [[OCF email|doc services/mail]] (`<OCF username>@ocf.berkeley.edu`) is not connected to your
    account, [add it to your account emails](https://github.com/settings/emails).
 2. Create your personal [fork][github-fork] of [ocfweb][ocfweb].
 3. [Log into supernova](/docs/staff/procedures/ssh-supernova).

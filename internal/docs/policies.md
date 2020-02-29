@@ -2,8 +2,7 @@
 title: "Policies"
 ---
 
-OCF Policies are established by the [[OCF Decision Making Process|doc
-docs/operatingrules/constitution#ocf_decision_making_process]].
+OCF Policies are established by the [[OCF Decision Making Process|doc docs/operatingrules/constitution#ocf_decision_making_process]].
 
 These are the current policies of the Open Computing Facility:
 

@@ -19,8 +19,7 @@ missed a meeting, you can also read the mailing list archives to see what we
 went over in the past. This is a low volume mailing list (2 emails per week)
 and you can unsubscribe at any time.
 
-[[Read more about other mailing lists available to join|doc
-staff/mailing-lists]]
+[[Read more about other mailing lists available to join|doc staff/mailing-lists]]
 
 ### In-person meetings
 

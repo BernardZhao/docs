@@ -43,8 +43,7 @@ install and manage dependencies and versions.
 
    This will download and build whatever gems you have in your `Gemfile`. We've
    tried to install all the headers (dev packages) needed for building common
-   gems, but if building a gem fails due to a missing header, just [[send us an
-   email|doc contact]] so we can add it.
+   gems, but if building a gem fails due to a missing header, just [[send us an email|doc contact]] so we can add it.
 
 ## Installing unicorn
 
@@ -96,7 +95,6 @@ supervise your app (so that it starts and restarts automatically).
 ## Suggestions/improvements?
 
 If you have a better way to host Rails-based apps on the app server (or a
-suggestion for how we could improve this documentation), [[send us an email|doc
-contact]]!
+suggestion for how we could improve this documentation), [[send us an email|doc contact]]!
 
 [rvm]: https://rvm.io/

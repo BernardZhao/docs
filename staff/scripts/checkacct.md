@@ -7,8 +7,7 @@ title: "checkacct: find accounts by full name"
 If a member does not know their account name, you can use this script to look
 it up.
 
-Before recording an account request for a group with [[approve|doc
-staff/scripts/approve]], check to see if the group already has an account. Be
+Before recording an account request for a group with [[approve|doc staff/scripts/approve]], check to see if the group already has an account. Be
 sure to use different forms and abbreviations of the group's name to maximize
 the chance that a group will be found.
 
