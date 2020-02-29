@@ -8,7 +8,7 @@ something and not have it in draft quality, you can use the `economode` script
 to turn Economode off.
 
 You'll need the printer password, whose location can be found in the
-[[private docs|doc staff/private]].
+[private docs](/docs/staff/private).
 
 Remember to reset Economode to on using the same script once you're done.
 

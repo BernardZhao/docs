@@ -7,7 +7,7 @@ Mastodon is a federated microblogging platform and social network. See the
 
 The OCF operates a Mastodon instance, open to all members. To create an account,
 go to https://mastodon.ocf.berkeley.edu. Use `<ocfusername>@ocf.berkeley.edu` as
-your email address (emails sent will be [[forwarded|doc services/mail]] to your
+your email address (emails sent will be [forwarded](/docs/services/mail) to your
 Berkeley email), and use the same username as your OCF account. Note that
 Mastodon passwords are separate from OCF account passwords!
 

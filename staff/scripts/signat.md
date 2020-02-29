@@ -8,13 +8,13 @@ The `signat` script is used to look up the signatory status of people and
 student groups. This allows us to verify that the people who email us or come
 in to [[staff hours|staff-hours]] are really signatories for their group, and
 it also gives all the information needed to create group accounts with
-[[approve|doc staff/scripts/approve]].
+[approve](/docs/staff/scripts/approve).
 
 ## How it works
 
 `signat` is an interface to the [`ocflib`][ocflib] functions to query the
 [CalLink API][callinkapi] for group signatories. `ocflib` is also used to look
-up UIDs and OIDs in OCF [[LDAP|doc staff/backend/ldap]] and names in the
+up UIDs and OIDs in OCF [LDAP](/docs/staff/backend/ldap) and names in the
 university's [LDAP directory service][berkeleyldap].
 
 [ocflib]: github.com/ocf/ocflib

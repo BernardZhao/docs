@@ -3,7 +3,7 @@ title: "Old constitution (1989–2016)"
 ---
 
 _Note:_ This document is no longer in force. It has been superseded by the
-[[new constitution|doc docs/operatingrules/constitution]].
+[new constitution](/docs/docs/operatingrules/constitution).
 
 This document records the **Constitution of the Open Computing Facility**, as
 ratified or amended by votes of the OCF membership or by the Board of

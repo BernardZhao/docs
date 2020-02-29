@@ -34,7 +34,7 @@ generally easy to use. Our server settings are listed below:
 
 ### Option 3: Over SSH
 
-If you're logged in to the OCF login server via [[SSH|doc services/shell]], you
+If you're logged in to the OCF login server via [SSH](/docs/services/shell), you
 can use the pyrc script to easily connect to IRC. It will automatically launch
 a tmux session to contain your IRC session, so that you aren't disconnected
 when you close the terminal.
@@ -48,7 +48,7 @@ If you have an XMPP account, you can join IRC channels with room name
 `#channelname` and server name `irc.ocf.berkeley.edu` (alternatively,
 `#channelname@irc.ocf.berkeley.edu` depending on your client).
 
-An [[`ocf.berkeley.edu` XMPP account|doc services/xmpp]] can be used, but an
+An [`ocf.berkeley.edu` XMPP account](/docs/services/xmpp) can be used, but an
 account on any federated server will work.
 
 ## Authenticating with NickServ
@@ -113,7 +113,7 @@ connect to IRC normally.
 
 ### Setting up NickServ to work with ZNC
 
-If you are [[using ZNC|doc staff/tips/staffvm/znc]], load the [NickServ
+If you are [using ZNC](/docs/staff/tips/staffvm/znc), load the [NickServ
 module][nickserv] by running `/znc LoadMod nickserv` while connected to your
 ZNC server. Then, in your ZNC web admin interface, log in and go to `Your
 Settings` under either the global or user modules links. Under the Networks

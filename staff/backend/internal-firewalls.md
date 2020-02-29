@@ -2,7 +2,7 @@
 title: "Internal firewalls"
 ---
 
-While the [[external firewall|doc staff/backend/firewall]] regulates network
+While the [external firewall](/docs/staff/backend/firewall) regulates network
 traffic to the OCF from outside the OCF network, internal firewalls are
 responsible for regulating network traffic between different machines within the
 OCF.

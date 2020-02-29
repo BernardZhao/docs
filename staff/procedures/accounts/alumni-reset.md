@@ -22,7 +22,7 @@ actual alumnus to perform the search for you, if you are so inclined but
 unable to access the page on account of your youth.
 
 To perform the association, simply follow the steps outlined in the
-[[LDAP Association|doc staff/procedures/accounts/association]] documentation
+[LDAP Association](/docs/staff/procedures/accounts/association) documentation
 with regards to adding the `calnetUid` record. However, don't delete it after
 you're done.
 
@@ -31,7 +31,7 @@ you're done.
 In 2011, we transitioned our password database to Kerberos. Anyone who
 logged into their OCF account during the transition had their credentials
 migrated, but alumni who didn't log in may be missing a
-[[Kerberos principal|doc staff/backend/kerberos]]. For them, it is necessary
+[Kerberos principal](/docs/staff/backend/kerberos). For them, it is necessary
 to manually add one.
 
 This error manifests itself as the following when a user attempts to reset
@@ -48,8 +48,8 @@ password and you can relay this to the alumni.
 
 #### Disabled Account    {sorried}
 
-If the account is [[sorried|doc staff/scripts/sorry]], refer to the documentation
-for [[unsorry|doc staff/scripts/unsorry]] to re-enable the account.
+If the account is [sorried](/docs/staff/scripts/sorry), refer to the documentation
+for [unsorry](/docs/staff/scripts/unsorry) to re-enable the account.
 
 #### Manual Verification of Alumni Identity    {verify}
 

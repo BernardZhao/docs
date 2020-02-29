@@ -6,7 +6,7 @@ title: "LDAP"
 
 The Lightweight Directory Access Protocol accesses a directory service over a
 network. We currently use OpenLDAP to store information about accounts (except
-password hashes which are in [[Kerberos|doc staff/backend/kerberos]]).
+password hashes which are in [Kerberos](/docs/staff/backend/kerberos)).
 
 
 ## Definition of an OCF account
@@ -130,7 +130,7 @@ file in your current directory, or `Q` to discard.
 ### `ldapadd`
 
 `ldapadd` is a utility to add entries to the LDAP directory if you have the
-proper [[permissions|doc staff/powers]].
+proper [permissions](/docs/staff/powers).
 
 To add an account, first create a file (we call it `user_file`):
 
@@ -146,7 +146,7 @@ To add an account, first create a file (we call it `user_file`):
     loginShell: /bin/bash
     calnetUid: 758472
 
-Then authenticate with [[Kerberos|doc staff/backend/kerberos]]:
+Then authenticate with [Kerberos](/docs/staff/backend/kerberos):
 
     $ kinit myusername/admin
 

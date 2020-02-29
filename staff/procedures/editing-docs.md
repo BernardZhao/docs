@@ -13,9 +13,9 @@ Markdown syntax is parsed by [Mistune][mistune] with syntax highlighting done
 by [Pygments][pygments].
 
 We use a wiki-like syntax for making links within documentation and the
-website, e.g. from [[Virtual Hosting|doc services/vhost#h4_hosting-badge]]:
+website, e.g. from [Virtual Hosting](/docs/services/vhost#h4_hosting-badge):
 
-    All virtual hosts on the OCF must include an [[OCF banner|doc services/vhost/badges]] on the front page that links to the [[OCF home page|home]].
+    All virtual hosts on the OCF must include an [OCF banner](/docs/services/vhost/badges) on the front page that links to the [[OCF home page|home]].
 
 ## Editing docs
 
@@ -40,7 +40,7 @@ commiting on master or making a pull request.
 
 For more complicated ones, the repository's readme file has instructions for
 testing and building the website so you can preview your edits before making
-the commit. Also see [[our page on Git|doc staff/backend/git]] for further info
+the commit. Also see [our page on Git](/docs/staff/backend/git) for further info
 on working with OCF repos.
 
 

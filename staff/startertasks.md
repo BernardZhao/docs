@@ -34,13 +34,13 @@ See http://www.irchelp.org/clients/ for more recommendations.
 Once you’ve joined IRC, pick any channel (#rebuild, #henlo, etc) and say hi!
 
 ## Get familiar with the command line
-All of [[our servers|doc staff/backend/servers]] run Linux, and we interact with
+All of [our servers](/docs/staff/backend/servers) run Linux, and we interact with
 them over the command line. There are a lot of online resources about using the
 Linux command line, so if you're confused about something, try Googling it!
 
 If you haven't used the command line before, you can go to our [[command
 reference|doc services/shell/commands]] page and try running some commands. You
-can also connect to [[our ssh server|doc services/shell]]
+can also connect to [our ssh server](/docs/services/shell)
 (`ssh.ocf.berkeley.edu`) using your own SSH client.
 
 If you want to get more comfortable, try completing [lab
@@ -75,7 +75,7 @@ group. Staff members use the
 [`signat`](https://ocf.io/docs/staff/scripts/signat) command to perform this
 check.
 
-1. [[Log into supernova|doc staff/procedures/ssh-supernova]].
+1. [Log into supernova](/docs/staff/procedures/ssh-supernova).
 2. Use the `signat` command to list the signatories for the Open Computing
    Facility or another student organization of your choice. Hint: if you are not
    sure how to use the `signat` command, try running `signat --help`. This trick
@@ -86,7 +86,7 @@ check.
    to search across all repositories!
 
 ## Play with your webspace
-Every OCF account has [[web hosting|doc services/web]] enabled at
+Every OCF account has [web hosting](/docs/services/web) enabled at
 https://www.ocf.berkeley.edu/~yourusername. As an example, check out [ckuehl’s
 website](https://www.ocf.berkeley.edu/~ckuehl/).
 
@@ -98,7 +98,7 @@ website](https://www.ocf.berkeley.edu/~ckuehl/).
 [ocflib][ocflib] is a Python library we maintain which is installed on every OCF
 host. For this exercise, you won’t need to make modifications to ocflib.
 
-1. [[Log into supernova|doc staff/procedures/ssh-supernova]] and start an
+1. [Log into supernova](/docs/staff/procedures/ssh-supernova) and start an
    IPython3 shell (the `ipython3` command).
 2. To make sure things are working:
    1. Run `import ocflib.lab.staff_hours` to import utilities relating to
@@ -136,7 +136,7 @@ staff/startertasks/completed]].
    services/mail]] (`<OCF username>@ocf.berkeley.edu`) is not connected to your
    account, [add it to your account emails](https://github.com/settings/emails).
 2. Create your personal [fork][github-fork] of [ocfweb][ocfweb].
-3. [[Log into supernova|doc staff/procedures/ssh-supernova]].
+3. [Log into supernova](/docs/staff/procedures/ssh-supernova).
 4. Optional: For easier authentication to GitHub, [generate an SSH
    key][github-ssh-keygen] and [add it to your GitHub account][github-add-key].
    Note: the `xclip` commands will probably not work. Instead, just run `cat
@@ -155,7 +155,7 @@ pull requests to ocfweb will use this same clone.
    very short name for your branch and run `git checkout -b <branch-name>`. You
    have now created and switched to your new branch.
 2. Now, you can edit the file and add your username. Figure out which file
-   corresponds to [[the completion list|doc staff/startertasks/completed]] and
+   corresponds to [the completion list](/docs/staff/startertasks/completed) and
    add your username to that file. (Just add the name for now, don't worry about
    adding the URL or brackets.)
 
@@ -216,7 +216,7 @@ After pushing, the pull request on GitHub will automatically update with the new
 changes.
 
 Congrats on making your PR! If you want to learn more about what you can do with
-git, check out our [[documentation on git|doc staff/backend/git]].
+git, check out our [documentation on git](/docs/staff/backend/git).
 
 [github-pull-request]: https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
 [ocfweb]: https://github.com/ocf/ocfweb

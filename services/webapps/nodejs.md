@@ -59,7 +59,7 @@ running it (or see any errors in your terminal).
 
 ## Supervise your app with systemd
 
-Cool, your app works. [[Set up systemd|doc services/webapps#supervise]] to
+Cool, your app works. [Set up systemd](/docs/services/webapps#supervise) to
 supervise your app (so that it starts and restarts automatically).
 
 ## Suggestions/improvements?

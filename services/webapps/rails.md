@@ -5,7 +5,7 @@ title: "Ruby on Rails"
 **Note: This document only applies to student groups with virtual hosts who
 have applied for apphosting. For normal user accounts or for groups without
 apphosting, you'll want to host with FastCGI instead. See our instructions for
-that [[here|doc services/web/rails]].**
+that [here](/docs/services/web/rails).**
 
 You will want to deploy your application using [RVM][rvm] so that you can easily
 install and manage dependencies and versions.
@@ -90,7 +90,7 @@ Some things to keep in mind:
 
 ## Supervise your app with systemd
 
-Cool, your app works. [[Set up systemd|doc services/webapps#supervise]] to
+Cool, your app works. [Set up systemd](/docs/services/webapps#supervise) to
 supervise your app (so that it starts and restarts automatically).
 
 ## Suggestions/improvements?

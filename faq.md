@@ -7,7 +7,7 @@ title: "Frequently asked questions"
 
 Access to computing by the students for the students!
 
-More specifically, we have a [[list of services|doc services]].
+More specifically, we have a [list of services](/docs/services).
 
 #### Who are you?
 
@@ -16,17 +16,17 @@ completely administered and operated by student volunteers ("staff"). [[About
 the OCF|doc about]].
 
 Interested in [[joining staff|about-staff]]? Feel free to attend our meetings
-or [[contact us|doc contact]] by email.
+or [contact us](/docs/contact) by email.
 
 #### Where is the lab? What are the hours?
 
-See [[lab|doc services/lab]].
+See [lab](/docs/services/lab).
 
 #### How do I join the OCF and get an OCF account?
 
-See [[Join the OCF|doc membership]].
+See [Join the OCF](/docs/membership).
 
-#### How do I join [[OCF staff|doc staff]]?
+#### How do I join [OCF staff](/docs/staff)?
 
 Check out [[our staff recruitment website|about-staff]]!
 
@@ -51,35 +51,35 @@ by in-person to ask for it.
 #### I have an account. Does it expire? Will it still work?
 
 It should still work. Our current policy is to leave accounts alone after
-graduation. See [[account|doc services/account]].
+graduation. See [account](/docs/services/account).
 
 #### My account is disabled. Or, I want to disable or delete my account.
 
-See [[account|doc services/account]].
+See [account](/docs/services/account).
 
 #### I forgot my username or password.
 
-See [[account|doc services/account]].
+See [account](/docs/services/account).
 
-#### [[Web hosting|doc services/web]]: How do I get group.berkeley.edu ([[virtual hosting|doc services/vhost]])?
+#### [Web hosting](/docs/services/web): How do I get group.berkeley.edu ([virtual hosting](/docs/services/vhost))?
 
-First, you need to have a group [[account|doc membership]] and a working
-[[website|doc services/web]]. Then, request [[virtual hosting|doc
+First, you need to have a group [account](/docs/membership) and a working
+[website](/docs/services/web). Then, request [[virtual hosting|doc
 services/vhost]].
 
-#### [[Email hosting|doc services/mail]]: How do I get @group.berkeley.edu ([[virtual hosting|doc services/vhost]])?
+#### [Email hosting](/docs/services/mail): How do I get @group.berkeley.edu ([virtual hosting](/docs/services/vhost))?
 
-First, set up regular [[virtual hosting|doc services/vhost]].
-Then, request [[email virtual hosting|doc services/vhost/mail]].
+First, set up regular [virtual hosting](/docs/services/vhost).
+Then, request [email virtual hosting](/docs/services/vhost/mail).
 
-#### [[Printing|doc services/lab/printing]]: I have a printing question/problem.
+#### [Printing](/docs/services/lab/printing): I have a printing question/problem.
 
-See [[Printing|doc services/lab/printing]].
+See [Printing](/docs/services/lab/printing).
 
 #### There is some content on your website I want removed.
 
-See our [[content removal policy|doc services/account/content-removal]].
+See our [content removal policy](/docs/services/account/content-removal).
 
 #### I need to talk to a human.
 
-See [[contact|doc contact]].
+See [contact](/docs/contact).

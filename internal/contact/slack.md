@@ -4,14 +4,14 @@ title: "Slack"
 
 
 We also offer IRC as a chat service. If that is what you were looking for, head
-over to [[our page on IRC|doc contact/irc]].
+over to [our page on IRC](/docs/contact/irc).
 
 ### Join the OCF Slack Workspace
 
 1. [Create an OCF account][join] if you don't yet have one.
 
 2. Go to the [OCF Slack workspace][slack] and click the "If you have an
-   [[@ocf.berkeley.edu email address|doc services/mail]], you can create an
+   [@ocf.berkeley.edu email address](/docs/services/mail), you can create an
    account." button.
 
 3. Enter your OCF username in the box, this should send an email to your Berkeley
@@ -32,7 +32,7 @@ over to [[our page on IRC|doc contact/irc]].
 #### Everything is public
 
 When using Slack, please keep in mind that the channels are connected to our
-[[IRC server|doc contact/irc]], which is open to the whole world. Anyone could
+[IRC server](/docs/contact/irc), which is open to the whole world. Anyone could
 be keeping a log of what is said, so please don't say anything that you wouldn't
 want to be public!
 

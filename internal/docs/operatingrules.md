@@ -8,4 +8,4 @@ Constitution's provisions hold precedence over the Bylaws.
 
  - [[Constitution of the Open Computing Facility|doc
    docs/operatingrules/constitution]]
- - [[Bylaws of the Open Computing Facility|doc docs/operatingrules/bylaws]]
+ - [Bylaws of the Open Computing Facility](/docs/docs/operatingrules/bylaws)

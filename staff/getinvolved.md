@@ -93,7 +93,7 @@ list of our most active repos, with some examples of they're used for:
    * Configure our [Apache web server][puppet-www], which serves almost all
      web requests on our infra
    * Configure our [internal firewall][puppet-firewall]
-     ([[docs|doc staff/backend/internal-firewalls]])
+     ([docs](/docs/staff/backend/internal-firewalls))
 * [ocfweb][ocfweb] ([issues][ocfweb/issues]) - the source code for our website,
   www.ocf.berkeley.edu. Written in Python using the Django framework.
    * Hosts our documentation for users and staffers (including
@@ -132,7 +132,7 @@ If you’re feeling particularly adventurous, you can [search for the string
 
 #### Help requests
 
-During the semester, our [[help@ocf.berkeley.edu mailing list|doc contact]]
+During the semester, our [help@ocf.berkeley.edu mailing list](/docs/contact)
 gets around 14 emails per week from the UC Berkeley community. Volunteers like
 you respond to these emails. Most requests are about requesting virtual hosting
 and helping users debug or fix their websites. If you’re interested in seeing
@@ -170,7 +170,7 @@ attending staff hours can serve multiple purposes:
 ### Slack or IRC
 
 OCF staff often communicate on Slack or IRC. For instructions on how to join
-Slack, see [ocf.io/slack][slack]. See [[IRC docs|doc contact/irc]] for how to
+Slack, see [ocf.io/slack][slack]. See [IRC docs](/docs/contact/irc) for how to
 join IRC. Slack and IRC are bridged together, so joining either one lets you
 participate in the same discussions. Some important channels:
 

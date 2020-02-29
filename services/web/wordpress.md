@@ -4,7 +4,7 @@ title: "WordPress"
 
 WordPress is a popular CMS (content management system) on the Web.
 
-OCF's [[web hosting|doc services/web]] supports local WordPress installations,
+OCF's [web hosting](/docs/services/web) supports local WordPress installations,
 and groups using WordPress are eligible for [[virtual hosting|doc
 services/vhost]] (mygroup.berkeley.edu names).
 
@@ -14,7 +14,7 @@ during staff hours|staff-hours]] for in-person assistance.
 
 ## Installing WordPress
 
-The easiest way to set up WordPress is via [[SSH|doc services/shell]]. Some
+The easiest way to set up WordPress is via [SSH](/docs/services/shell). Some
 simple instructions:
 
 1. Go to our [web-based SSH client](https://ssh.ocf.berkeley.edu/) and sign in
@@ -68,7 +68,7 @@ over.
 
 If you have an old WordPress installation lying around -- if you are replacing
 an old student group website, for example -- you should archive it before
-proceeding. See the example on our [[backup page|doc services/web/backups]] to
+proceeding. See the example on our [backup page](/docs/services/web/backups) to
 easily make a backup over SSH.
 
 The basic steps to migration are as follows:

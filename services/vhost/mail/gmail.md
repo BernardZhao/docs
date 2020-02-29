@@ -78,7 +78,7 @@ select the From address there as well.
 what's wrong, feel free to [[drop by our staff hours|staff-hours]] for
 in-person help!
 
-As a last resort, you can also [[email us|doc contact]] for assistance. If you
+As a last resort, you can also [email us](/docs/contact) for assistance. If you
 do this, please provide as much detail as possible, including screenshots, the
 email you're trying to use, and the steps you took. (But please *do not* send
 us your password!)

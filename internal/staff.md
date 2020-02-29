@@ -6,7 +6,7 @@ title: "Staff documentation"
 Find out what we're all about, and [[come join us|about-staff]]!
 
 Feel free to attend our meetings, visit us during [[staff hours|staff-hours]],
-or [[contact us|doc contact]] by email.
+or [contact us](/docs/contact) by email.
 
 ### Documentation
 

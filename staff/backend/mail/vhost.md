@@ -48,4 +48,4 @@ clients to send as a vhost address. (See `/etc/pam.d/smtp` and
 
 ## How do I add mail hosting to a group?
 
-See [[here|doc staff/procedures/vhost#mail]].
+See [here](/docs/staff/procedures/vhost#mail).

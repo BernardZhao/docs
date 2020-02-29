@@ -4,14 +4,14 @@ title: "Joining the OCF"
 
 ## Before you begin
 
-* Check the [[membership eligibility|doc membership/eligibility]] page to make
+* Check the [membership eligibility](/docs/membership/eligibility) page to make
   sure you are eligible for an OCF account. For example, all currently-enrolled
   students and active student groups registered with the LEAD Center are
   eligible.
 
 * OCF accounts do not expire, so make sure you have not made an account in the
   past. If you have forgotten your account name or password, please do not
-  request a new account. Instead, reset your [[password|doc services/account]].
+  request a new account. Instead, reset your [password](/docs/services/account).
 
 * Choose an OCF account name that is based on your real name (for individual
   accounts) or your group's name (for group accounts). It is unlikely you will
@@ -23,14 +23,14 @@ title: "Joining the OCF"
   shared.
 * Individual accounts are **not** eligible for [[virtual hosting|doc
   services/vhost]] except for faculty and staff accounts.
-* Individual accounts are eligible for [[printing|doc services/lab/printing]].
+* Individual accounts are eligible for [printing](/docs/services/lab/printing).
 
 **[[Request an account online|register]]**
 
 You will be prompted to log in with CalNet. Then follow the instructions to
 make your request. Your account name must be based on your real name.
 
-Feel free to [[contact us|doc contact]] if you experience difficulties in the
+Feel free to [contact us](/docs/contact) if you experience difficulties in the
 request or you have questions.
 
 Then, wait for your account to be created. (below)
@@ -39,7 +39,7 @@ Then, wait for your account to be created. (below)
 
 * Group accounts are associated with a group and may be shared by members of
   the group.
-* Group accounts are eligible for [[virtual hosting|doc services/vhost]].
+* Group accounts are eligible for [virtual hosting](/docs/services/vhost).
 * Group accounts are **not** eligible for [[printing|doc
   services/lab/printing]].
 

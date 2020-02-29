@@ -30,7 +30,7 @@ of the virtual-hosted site (`yourgroup.berkeley.edu`).
 
 ### Instructions
 
-1.   **Request an account.** [[Request an OCF account|doc membership]] (if you
+1.   **Request an account.** [Request an OCF account](/docs/membership) (if you
      haven't already done so). Student and department groups need a group
      account; faculty and staff may use their personal account.
 2.   **Set up real site.** Set up your webspace and upload your website (if you
@@ -39,7 +39,7 @@ of the virtual-hosted site (`yourgroup.berkeley.edu`).
 3.   **Include OCF hosting banner.** Place a [[Hosted by OCF banner|doc
      services/vhost/badges]] on your home page that links to the OCF front
      page. If none of these images are appropriate for your site, you may
-     design one of your own and [[submit it|doc contact]] for approval.
+     design one of your own and [submit it](/docs/contact) for approval.
 4.   **Include university's disclaimer (if applicable).** If you are a student
      group, place the university-mandated student group disclaimer on each page
      of your website (see the section below).
@@ -52,7 +52,7 @@ of the virtual-hosted site (`yourgroup.berkeley.edu`).
 
 ### Including the OCF banner {ocf_banner}
 
-Place any of the [[Hosted by OCF banners|doc services/vhost/badges]] on your
+Place any of the [Hosted by OCF banners](/docs/services/vhost/badges) on your
 site by copying the code onto your page. The banner need only be placed on the
 home page of your site. You can also create your own OCF banner with approval
 from the OCF (see instructions above).
@@ -181,7 +181,7 @@ will not be able to reclaim it unless it becomes available again.  If the
 virtual host has been disabled by the explicit request of the account holder,
 or if the account has lost eligibility for virtual hosting, then the virtual
 host may be reclaimed immediately.  Finally, if the virtual host was disabled
-for violating [[account|doc services/account/account-policies]] or vhost
+for violating [account](/docs/services/account/account-policies) or vhost
 policy, before reclaiming the vhost, OCF staff will make an effort to contact
 the group which holds it. If, in two weeks, we receive no response or OCF staff
 have determined that there has not been sufficient progress towards resolving

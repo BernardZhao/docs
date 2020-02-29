@@ -5,11 +5,11 @@ title: "Account"
 
 ## Introduction
 
-Your OCF account is both proof of your [[membership|doc membership]] and the
-means by which you authenticate to the variety of [[services|doc services]]
-operated by OCF [[staff|doc staff]]. Your OCF account is independent from
+Your OCF account is both proof of your [membership](/docs/membership) and the
+means by which you authenticate to the variety of [services](/docs/services)
+operated by OCF [staff](/docs/staff). Your OCF account is independent from
 CalNet. (Technical info: public account information and salted password hashes
-are stored in [[LDAP|doc staff/backend/ldap]] and [[Kerberos|doc
+are stored in [LDAP](/docs/staff/backend/ldap) and [[Kerberos|doc
 staff/backend/kerberos]] databases, respectively.)
 
 Accounts are not normally deactivated after your membership [[eligibility|doc
@@ -43,7 +43,7 @@ signatory for the group. If your group isn't registered with the LEAD Center
 
 You can change your password over SSH if you know your current password.
 
-Use [[SSH|doc services/shell]] to run the command `passwd` and follow the
+Use [SSH](/docs/services/shell) to run the command `passwd` and follow the
 prompts as shown below. No text will appear when you are entering in a
 password, just press enter when done after each prompt.
 
@@ -108,7 +108,7 @@ destroyed once we have verified your identity.
 
 ### MySQL
 
-Access to your [[MySQL database|doc services/mysql]], if you have one, is
+Access to your [MySQL database](/docs/services/mysql), if you have one, is
 protected by a separate password.
 
 ## After graduation
@@ -132,7 +132,7 @@ so.
 To re-enable your account, you will need to see a Manager during [[staff
 hours|staff-hours]].
 
-If you want to disable your OCF account, please [[contact us|doc contact]] and
+If you want to disable your OCF account, please [contact us](/docs/contact) and
 provide your OCF username. If your account appears to still be active, we may
 ask for some evidence that you are the account owner. Currently, disabled
 accounts are stored or archived and can be *re-enabled* by request at a later

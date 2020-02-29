@@ -43,7 +43,7 @@ database` and run the command. Note your password in a safe place.
 
 ### SSH Terminal
 
-Log into the OCF via [[SSH|doc services/shell]], at the terminal prompt enter
+Log into the OCF via [SSH](/docs/services/shell), at the terminal prompt enter
 the command `makemysql`. Hit yes to confirm the operation. Note your password
 in a safe place.
 

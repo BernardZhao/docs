@@ -12,7 +12,7 @@ title: "Contact us"
 
 There are several ways to contact the student volunteers who keep the OCF
 running (hereafter referred to as OCF staff). If your question cannot be
-answered by the **[[FAQ|doc faq]]**, we ask that you try coming to **[[staff
+answered by the **[FAQ](/docs/faq)**, we ask that you try coming to **[[staff
 hours|staff-hours]]** before contacting us by email.
 
 When contacting OCF staff, please reference
@@ -87,7 +87,7 @@ Please note that any cease and desist notices may be forwarded to the [Lumen
 database][lumen] for publication and annotation.
 
 Please take note of our
-[[content removal policy|doc services/account/content-removal]] policy prior
+[content removal policy](/docs/services/account/content-removal) policy prior
 to contacting us about taking down user content.
 
 [lumen]: https://lumendatabase.org/

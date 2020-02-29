@@ -78,7 +78,7 @@ Here are two easy ways to re-create the symlink:
 
 #### via SSH
 
-1. Login to your account via [[SSH|doc services/shell]].
+1. Login to your account via [SSH](/docs/services/shell).
 2. After you go past all system messages, you will see prompt:
 
         tsunami$
